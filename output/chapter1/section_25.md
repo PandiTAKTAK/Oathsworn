@@ -3,13 +3,11 @@
 
 ## Chapter 1 - Bastone
 
-!>**GAIN CLUE TOKEN 1.
-
-If you have Clue Token 2, PLACE LOCATION TOKEN 4.**
+!>**GAIN CLUE TOKEN 1.  If you have Clue Token 2, PLACE LOCATION TOKEN 4.**  
 
 [chp1_13_1__a](../../decomp/app/src/main/res/raw/chp1_13_1__a.mp3 ':include :type=audio')
 
-### Location 13 – The Broken Oak
+Location 13 – The Broken Oak
 
 A well-tended inn shows promise. Entering, you find an amber fire glowing in the hearth. It is warm, dry and seemingly inviting.
 

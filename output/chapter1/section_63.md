@@ -3,11 +3,11 @@
 
 ## Chapter 1 - Bastone
 
-!>**PLACE LOCATION TOKENS 2, 3, 7, 12, 13, 14, 16 and 19.**
+!>**PLACE LOCATION TOKENS 2, 3, 7, 12, 13, 14, 16 and 19.**  
 
 [chp1_22_5__a](../../decomp/app/src/main/res/raw/chp1_22_5__a.mp3 ':include :type=audio')
 
-### "Inn, tavern, or pub?" Midge grins. You're not sure what the difference is between the last two, but correct his expectations and explain that you need to know more about the bodies.
+"Inn, tavern, or pub?" Midge grins. You're not sure what the difference is between the last two, but correct his expectations and explain that you need to know more about the bodies.
 
 He shrugs, "Been nasty. They've been finding bodies and bits of bodies all over the slums for weeks now. Nobody does nothing until a noble was found dead and scattered about an alley."
 

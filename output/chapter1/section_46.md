@@ -3,11 +3,11 @@
 
 ## Chapter 1 - Bastone
 
-!>**REVEAL THE ENCOUNTER SPECIAL RULES BOARD. MARK THE SPECIAL RULES BOX FOR CHAPTER 1 ON YOUR FREE COMPANY SHEET.**
+!>**REVEAL THE ENCOUNTER SPECIAL RULES BOARD. MARK THE SPECIAL RULES BOX FOR CHAPTER 1 ON YOUR FREE COMPANY SHEET.**  
 
 [chp1_17_12__a](../../decomp/app/src/main/res/raw/chp1_17_12__a.mp3 ':include :type=audio')
 
-### The man leans on his sword visibly shaking, then stands straight collecting himself.
+The man leans on his sword visibly shaking, then stands straight collecting himself.
 
 "You saved my life. Thank you." The man turns to you as he cleans himself up. "I am Dane. I, I had to try and save her. Stupid to think I could. There were so many of them. For weeks now they have been throwing bodies off the wall and I was too cowardly to try to stop them. Then they threw her over. She was still alive. I saw her crawling. Then the rats came and dragged her into the trees. She may still be alive. Help me. Help her."
 

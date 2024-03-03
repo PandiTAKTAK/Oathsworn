@@ -5,7 +5,7 @@
 
 [chp1_17_1a_a](../../decomp/app/src/main/res/raw/chp1_17_1a_a.mp3 ':include :type=audio')
 
-### Location 17 – The Eastern Tower
+Location 17 – The Eastern Tower
 
 You know you won't be able to find the collector before nightfall but you know exactly where the guards will be. Catching sight of the tower the man told you of, you head for the outer wall.
 

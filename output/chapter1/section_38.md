@@ -3,13 +3,13 @@
 
 ## Chapter 1 - Bastone
 
-!>**PERFORM A ROUND OF COMBAT AGAINST DEFENSE 4.**
+!>**PERFORM A ROUND OF COMBAT AGAINST DEFENSE 4.**  
 
 [chp1_17_4__a](../../decomp/app/src/main/res/raw/chp1_17_4__a.mp3 ':include :type=audio')
 
 [chp1_17_4__c](../../decomp/app/src/main/res/raw/chp1_17_4__c.mp3 ':include :type=audio')
 
-### You open your hand showing iron. The squad leader looks at it for a moment, then smirks.
+You open your hand showing iron. The squad leader looks at it for a moment, then smirks.
 
 "Think we'd trust you? You'd kill us the second we talked," as he draws his blade. "Men, bleed 'em." Having no choice but to protect their secret, they attack.
 

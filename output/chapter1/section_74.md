@@ -3,15 +3,15 @@
 
 ## Chapter 1 - Bastone
 
-!>**LOSE 2 IRON.**
+!>**LOSE 2 IRON.**  
 
-!>**PLACE LOCATION TOKENS 11, 17 and 25.**
+!>**PLACE LOCATION TOKENS 11, 17 and 25.**  
 
 [chp1_24_2__a](../../decomp/app/src/main/res/raw/chp1_24_2__a.mp3 ':include :type=audio')
 
 [chp1_24_2__c](../../decomp/app/src/main/res/raw/chp1_24_2__c.mp3 ':include :type=audio')
 
-### "I suppose I have no choice. I'll take 2 iron. They'll eat for a while now. Thank you."
+"I suppose I have no choice. I'll take 2 iron. They'll eat for a while now. Thank you."
 
 "It's the dead you need to find. People live, people die," he gestures to the wretched homeless lining the alley on either side of the street. "When they do, the collector comes to clear. It used to be me. Take bodies, take names if they had any, and burn them. No sickness then."
 

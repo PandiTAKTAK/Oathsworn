@@ -67,9 +67,10 @@ for i, section_content in enumerate(sections):
         for ref in string_refs:
             string_value = strings_dict.get(ref, 'Not found')
             if ref.startswith("pop"):
-                markdown_content += f'!>**{string_value}**\n\n'
+                string_value_single_line = string_value.replace('\n', ' ')
+                markdown_content += f'!>**{string_value_single_line}**  \n\n'
             elif ref.startswith("chp") and ref.endswith("_a"):
-                markdown_content += f'### {string_value}\n\n'
+                markdown_content += f'{string_value}\n\n'
             elif ref.startswith("btn"):
                 current_heading = string_value # Update the current heading
             else:

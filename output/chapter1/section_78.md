@@ -3,15 +3,15 @@
 
 ## Chapter 1 - Bastone
 
-!>**LOSE 6 IRON.**
+!>**LOSE 6 IRON.**  
 
-!>**PLACE LOCATION TOKENS 11, 17 and 25.**
+!>**PLACE LOCATION TOKENS 11, 17 and 25.**  
 
 [chp1_24_6__a](../../decomp/app/src/main/res/raw/chp1_24_6__a.mp3 ':include :type=audio')
 
 [chp1_24_6__c](../../decomp/app/src/main/res/raw/chp1_24_6__c.mp3 ':include :type=audio')
 
-### You surround the man, his head whipping between you as you walk slowly around him. You press him for what he knows, but looking back at his family, he stands tall. "I lost a young'un a week back and you come at me like this? You wanna know anything, you're paying double. Bunch of curs."
+You surround the man, his head whipping between you as you walk slowly around him. You press him for what he knows, but looking back at his family, he stands tall. "I lost a young'un a week back and you come at me like this? You wanna know anything, you're paying double. Bunch of curs."
 
 The man defies you and won't be browbeaten.
 

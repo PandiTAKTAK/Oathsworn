@@ -3,9 +3,9 @@
 
 ## Chapter 1 - Bastone
 
-!>**ALL OATHSWORN GAIN A DEFENSE TOKEN.**
+!>**ALL OATHSWORN GAIN A DEFENSE TOKEN.**  
 
-!>**PERFORM A REASONING CHECK (DIFFICULTY 4).**
+!>**PERFORM A REASONING CHECK (DIFFICULTY 4).**  
 
 [chp1_17_10__c](../../decomp/app/src/main/res/raw/chp1_17_10__c.mp3 ':include :type=audio')
 

@@ -3,6 +3,6 @@
 
 ## Chapter 1 - Bastone
 
-!>**PLACE LOCATION TOKEN 15 AND GO THERE.**
+!>**PLACE LOCATION TOKEN 15 AND GO THERE.**  
 
 

@@ -3,11 +3,9 @@
 
 ## Chapter 1 - Bastone
 
-!>**LOSE 6 IRON.
+!>**LOSE 6 IRON.  ALL OATHSWORN GAIN AN EMPOWERED X3 TOKEN.**  
 
-ALL OATHSWORN GAIN AN EMPOWERED X3 TOKEN.**
-
-!>**PLACE LOCATION TOKENS 11, 17 and 25.**
+!>**PLACE LOCATION TOKENS 11, 17 and 25.**  
 
 [chp1_24_4__c](../../decomp/app/src/main/res/raw/chp1_24_4__c.mp3 ':include :type=audio')
 

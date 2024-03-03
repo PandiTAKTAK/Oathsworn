@@ -3,11 +3,11 @@
 
 ## Chapter 1 - Bastone
 
-!>**YOU MAY START A TRADE WITH THE APOTHECARY.**
+!>**YOU MAY START A TRADE WITH THE APOTHECARY.**  
 
 [chp1_3_1__a](../../decomp/app/src/main/res/raw/chp1_3_1__a.mp3 ':include :type=audio')
 
-### Location 3 – The Apothecary
+Location 3 – The Apothecary
 
 You have heard there is an Apothecary of sorts in this quarter, situated on the rooftop of a tenement. When you arrive you find a stand-alone shack surrounded by gardens and a queue of people.
 

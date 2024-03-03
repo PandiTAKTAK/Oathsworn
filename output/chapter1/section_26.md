@@ -3,13 +3,11 @@
 
 ## Chapter 1 - Bastone
 
-!>**GAIN CLUE TOKEN 2.
-
-If you have Clue Token 1 - PLACE LOCATION TOKEN 4.**
+!>**GAIN CLUE TOKEN 2.  If you have Clue Token 1 - PLACE LOCATION TOKEN 4.**  
 
 [chp1_14_1__a](../../decomp/app/src/main/res/raw/chp1_14_1__a.mp3 ':include :type=audio')
 
-### Location 14 – The Town Square
+Location 14 – The Town Square
 
 Smells of cooking pots and the sound of fervent bartering roll over you. Glancing around, you meet the eyes of the destitute peering from dark alleys and crooked doorways. The square itself seethes with people who retreat to give your party a wide berth when they notice you, creating an island in the roiling sea of bodies.
 

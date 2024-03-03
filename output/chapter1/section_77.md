@@ -3,11 +3,11 @@
 
 ## Chapter 1 - Bastone
 
-!>**PLACE LOCATION TOKENS 11, 17 and 25.**
+!>**PLACE LOCATION TOKENS 11, 17 and 25.**  
 
 [chp1_24_5__a](../../decomp/app/src/main/res/raw/chp1_24_5__a.mp3 ':include :type=audio')
 
-### You surround the man and finger your weapons. His eyes dart between you. You ask him what he knows. He shudders when you make eye contact with his family through the window and he nods, raising his hands in appeasement.
+You surround the man and finger your weapons. His eyes dart between you. You ask him what he knows. He shudders when you make eye contact with his family through the window and he nods, raising his hands in appeasement.
 
 "It's the dead you need to find. People live, people die," he gestures to the wretched homeless lining the alley on either side of the street. "When they do, the collector comes to clear. It used to be me. Take bodies, take names if they had any, and burn them. No sickness then."
 

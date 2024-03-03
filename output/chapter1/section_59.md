@@ -3,13 +3,11 @@
 
 ## Chapter 1 - Bastone
 
-!>**CREATE A NAME FOR YOUR FREE COMPANY.
-
-DEFINE A KEY ATTRIBUTE OF YOUR FREE COMPANY BY CHOOSING WHICH ONE OF THE FOLLOWING STATEMENTS MOST ACCURATELY DESCRIBES YOUR COMPANY:**
+!>**CREATE A NAME FOR YOUR FREE COMPANY.  DEFINE A KEY ATTRIBUTE OF YOUR FREE COMPANY BY CHOOSING WHICH ONE OF THE FOLLOWING STATEMENTS MOST ACCURATELY DESCRIBES YOUR COMPANY:**  
 
 [chp1_22_1__a](../../decomp/app/src/main/res/raw/chp1_22_1__a.mp3 ':include :type=audio')
 
-### As you approach the thick wooden gate, a small slat slides unevenly open and a weary, coal-caked face peers out.
+As you approach the thick wooden gate, a small slat slides unevenly open and a weary, coal-caked face peers out.
 
 Moments pass as he eyes you with suspicion taking inventory of your many weapons. Then one of you reveals the mark on your wrist. He grimaces, "Free Company …eerrr… let me get this open."
 

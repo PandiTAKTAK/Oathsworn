@@ -3,11 +3,11 @@
 
 ## Chapter 1 - Bastone
 
-!>**PLACE LOCATION TOKEN 20.**
+!>**PLACE LOCATION TOKEN 20.**  
 
 [chp1_16_1__a](../../decomp/app/src/main/res/raw/chp1_16_1__a.mp3 ':include :type=audio')
 
-### Location 16 – The Watering Hole
+Location 16 – The Watering Hole
 
 Rain trickles from an ill-hanging sign proclaiming this to be the 'The Watering Hole,' it is an apt name for this place, or at least the last part is. You enter the inn to the sight of gritty faces and dirty mugs. From the look of the men, this must be one of the dives of the Underways workers. You hold out your hand, palm up, giving the 'Pot's Peace' gesture to indicate you want no trouble and make your way to the bar. Eyes flash to the Free Company marks on your wrists as you pass.
 

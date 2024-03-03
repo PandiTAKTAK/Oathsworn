@@ -3,13 +3,13 @@
 
 ## Chapter 1 - Bastone
 
-!>**YOU MAY START A TRADE WITH THE BANKSMITH.**
+!>**YOU MAY START A TRADE WITH THE BANKSMITH.**  
 
 [chp1_19_1__a](../../decomp/app/src/main/res/raw/chp1_19_1__a.mp3 ':include :type=audio')
 
 [chp1_19_1__c](../../decomp/app/src/main/res/raw/chp1_19_1__c.mp3 ':include :type=audio')
 
-### Location 19 – The Banksmith
+Location 19 – The Banksmith
 
 You trudge the muddy streets and find the Banksmith. The building is made fully from brick rather than a cobbled clay and timber affair like most of the town. It is large and imposing like the two guards at its entrance. Gamel, the Banksmith, is a broad-shouldered man wearing a woven knot apron of fine leather, highlighted with years of coal and grease. The air in the room moves like murky water, heavy with soot and the smell of the forge. Looking behind the Banksmith, you can see iron ingots stacked high. A considerable wealth.
 

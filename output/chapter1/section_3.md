@@ -3,11 +3,11 @@
 
 ## Chapter 1 - Bastone
 
-!>**PERFORM A SPOT CHECK (DIFFICULTY 4).**
+!>**PERFORM A SPOT CHECK (DIFFICULTY 4).**  
 
 [chp1_4_1__a](../../decomp/app/src/main/res/raw/chp1_4_1__a.mp3 ':include :type=audio')
 
-### Location 4 – The Alley
+Location 4 – The Alley
 
 Using the information you have gathered, and with the help of a couple of street urchins from the east side, you find the spot where the Noble was killed.
 

@@ -5,7 +5,7 @@
 
 [chp1_20_1__a](../../decomp/app/src/main/res/raw/chp1_20_1__a.mp3 ':include :type=audio')
 
-### Location 20 – The Stockades
+Location 20 – The Stockades
 
 There are five stockades in the circle. Only one is currently occupied. A soggy young man with thick, curly red hair sits dejectedly in the rain. A solitary guard leans under an archway not far off paying little heed.
 

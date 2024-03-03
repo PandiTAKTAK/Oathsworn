@@ -3,7 +3,7 @@
 
 ## Chapter 1 - Bastone
 
-!>**ALL OATHSWORN GAIN AN EMPOWERED X3 TOKEN.**
+!>**ALL OATHSWORN GAIN AN EMPOWERED X3 TOKEN.**  
 
 [chp1_17_2__c](../../decomp/app/src/main/res/raw/chp1_17_2__c.mp3 ':include :type=audio')
 

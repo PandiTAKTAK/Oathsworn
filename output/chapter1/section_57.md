@@ -3,19 +3,15 @@
 
 ## Chapter 1 - Bastone
 
-!>**WRITE THE KEYWORD 'KINGKILLER' ON YOUR FREE COMPANY SHEET.
+!>**WRITE THE KEYWORD 'KINGKILLER' ON YOUR FREE COMPANY SHEET.  GAIN ONE RANDOM CHAPTER 1 COMMON ITEM.  ADD A TIME TOKEN TO THE TIME TRACK.**  
 
-GAIN ONE RANDOM CHAPTER 1 COMMON ITEM.
-
-ADD A TIME TOKEN TO THE TIME TRACK.**
-
-!>**PLACE LOCATION TOKEN 22 AND GO THERE.**
+!>**PLACE LOCATION TOKEN 22 AND GO THERE.**  
 
 [chp1_21_2__a](../../decomp/app/src/main/res/raw/chp1_21_2__a.mp3 ':include :type=audio')
 
 [chp1_21_2__c](../../decomp/app/src/main/res/raw/chp1_21_2__c.mp3 ':include :type=audio')
 
-### A driving rain batters the city walls as its ancient gray stones stand in defiance of the Deepwood's reaching limbs and the beasts that stalk beneath them.
+A driving rain batters the city walls as its ancient gray stones stand in defiance of the Deepwood's reaching limbs and the beasts that stalk beneath them.
 
 The deafening roar of the downpour hinders your ability to detect the sound of any approaching threats. You stay alert, noting the danger.
 

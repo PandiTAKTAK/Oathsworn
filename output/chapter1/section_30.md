@@ -3,13 +3,13 @@
 
 ## Chapter 1 - Bastone
 
-!>**THE CHOSEN INITIATOR LOSES 1 HIT POINT. THE OATHSWORN TO THE LEFT OF THE INITIATOR LOSES ALL THEIR IRON.**
+!>**THE CHOSEN INITIATOR LOSES 1 HIT POINT. THE OATHSWORN TO THE LEFT OF THE INITIATOR LOSES ALL THEIR IRON.**  
 
 [chp1_15_5__a](../../decomp/app/src/main/res/raw/chp1_15_5__a.mp3 ':include :type=audio')
 
 [chp1_15_5__c](../../decomp/app/src/main/res/raw/chp1_15_5__c.mp3 ':include :type=audio')
 
-### You draw your weapons.
+You draw your weapons.
 
 The emaciated man calmly cleans under his fingernails with the point of his sickle.
 

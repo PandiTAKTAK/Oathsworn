@@ -5,7 +5,7 @@
 
 [chp1_22_2__a](../../decomp/app/src/main/res/raw/chp1_22_2__a.mp3 ':include :type=audio')
 
-### The guard seals the paper with wax and nods to those outside the portcullis. With a slow grind, the iron gate raises to let you through. You understand your task - find whoever or whatever is responsible for the unexplained deaths. As you step out onto the main thoroughfare of Bastone, a sea of unwashed citizens churn through the mud going about their daily struggle.
+The guard seals the paper with wax and nods to those outside the portcullis. With a slow grind, the iron gate raises to let you through. You understand your task - find whoever or whatever is responsible for the unexplained deaths. As you step out onto the main thoroughfare of Bastone, a sea of unwashed citizens churn through the mud going about their daily struggle.
 
 "Welcome to my glorious Bastone," a voice chimes from your right.
 

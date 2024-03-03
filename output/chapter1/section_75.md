@@ -3,15 +3,15 @@
 
 ## Chapter 1 - Bastone
 
-!>**LOSE 6 IRON.**
+!>**LOSE 6 IRON.**  
 
-!>**PLACE LOCATION TOKENS 11, 17 and 25.**
+!>**PLACE LOCATION TOKENS 11, 17 and 25.**  
 
 [chp1_24_3__a](../../decomp/app/src/main/res/raw/chp1_24_3__a.mp3 ':include :type=audio')
 
 [chp1_24_3__c](../../decomp/app/src/main/res/raw/chp1_24_3__c.mp3 ':include :type=audio')
 
-### "I lost a young'un a week back and you come here with all your finery trying to haggle," the man says pointing to your iron weapons. He doubles the price and will not move on it.
+"I lost a young'un a week back and you come here with all your finery trying to haggle," the man says pointing to your iron weapons. He doubles the price and will not move on it.
 
 "It's the dead you need to find. People live, people die," he gestures to the wretched homeless lining the alley on either side of the street. "When they do, the collector comes to clear. It used to be me. Take bodies, take names if they had any, and burn them. No sickness then."
 

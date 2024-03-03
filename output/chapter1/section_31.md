@@ -3,9 +3,9 @@
 
 ## Chapter 1 - Bastone
 
-!>**PERFORM A ROUND OF COMBAT AGAINST DEFENSE 3.**
+!>**PERFORM A ROUND OF COMBAT AGAINST DEFENSE 3.**  
 
-!>**ALL OATHSWORN GAIN 1 IRON EACH.**
+!>**ALL OATHSWORN GAIN 1 IRON EACH.**  
 
 [chp1_15_6__a](../../decomp/app/src/main/res/raw/chp1_15_6__a.mp3 ':include :type=audio')
 
@@ -13,7 +13,7 @@
 
 [chp1_15_6__e](../../decomp/app/src/main/res/raw/chp1_15_6__e.mp3 ':include :type=audio')
 
-### Fear is this group's strongest weapon and it finds no purchase on you. Your weapons are already out of their sheathes. Your attackers are unprepared for a retaliation from trained warriors.
+Fear is this group's strongest weapon and it finds no purchase on you. Your weapons are already out of their sheathes. Your attackers are unprepared for a retaliation from trained warriors.
 
 After the first assailant falls under your assault with a wet thud, the others turn and vanish into the city alleyways trailing the words, "They know!" as they run.
 

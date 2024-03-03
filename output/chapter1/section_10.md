@@ -5,7 +5,7 @@
 
 [chp1_4_8__a](../../decomp/app/src/main/res/raw/chp1_4_8__a.mp3 ':include :type=audio')
 
-### You enter a small chamber. Bones are strewn across the floor and heaps of rags dot the area. Oddly, a pile of books is carefully stacked against one wall. You wonder how this could smell worse than the passages you were just in. The ratcatcher is scrabbling through one of the piles then rises, wielding something over his head. You realize it's a dismembered arm.
+You enter a small chamber. Bones are strewn across the floor and heaps of rags dot the area. Oddly, a pile of books is carefully stacked against one wall. You wonder how this could smell worse than the passages you were just in. The ratcatcher is scrabbling through one of the piles then rises, wielding something over his head. You realize it's a dismembered arm.
 
 "Look at the bites here. See? Rats. The hand is calloused. A farmer, my guess. From the Underways. Mushrooms and roots. His nails, long and chipped. Good digger. Two things I know are men and rats, but never nothing like this…" he turns the arm over and puts his finger deep into a blackened wound.
 

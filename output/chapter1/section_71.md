@@ -5,7 +5,7 @@
 
 [chp1_24_1a_a](../../decomp/app/src/main/res/raw/chp1_24_1a_a.mp3 ':include :type=audio')
 
-### Location 24 – The Burrows
+Location 24 – The Burrows
 
 You find the informant on the other side of town as daylight begins to wane.
 
