@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="2" android:versionName="1.1" android:compileSdkVersion="32" android:compileSdkVersionCodename="12" package="com.shadowborne_games.oathsworn" platformBuildVersionCode="32" platformBuildVersionName="12">
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="32"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <application android:theme="@style/Theme.Oathsworn" android:label="@string/app_name" android:icon="@mipmap/ic_launcher" android:allowBackup="true" android:supportsRtl="true" android:fullBackupContent="@xml/backup_rules" android:roundIcon="@mipmap/ic_launcher_round" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:dataExtractionRules="@xml/data_extraction_rules">
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_display" android:name="com.shadowborne_games.oathsworn.mainCampaign.DisplayActivity" android:screenOrientation="landscape" android:parentActivityName="com.shadowborne_games.oathsworn.mainCampaign.CampaignActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.shadowborne_games.oathsworn.mainCampaign.CampaignActivity"/>
+        </activity>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_campaign" android:name="com.shadowborne_games.oathsworn.mainCampaign.CampaignActivity" android:screenOrientation="landscape" android:parentActivityName="com.shadowborne_games.oathsworn.mainCampaign.MainActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.shadowborne_games.oathsworn.mainCampaign.MainActivity"/>
+        </activity>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_links" android:name="com.shadowborne_games.oathsworn.mainNonCampaign.LinksActivity" android:screenOrientation="landscape" android:parentActivityName="com.shadowborne_games.oathsworn.mainCampaign.MainActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.shadowborne_games.oathsworn.mainCampaign.MainActivity"/>
+        </activity>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_tutorial" android:name="com.shadowborne_games.oathsworn.mainNonCampaign.TutorialActivity" android:screenOrientation="landscape" android:parentActivityName="com.shadowborne_games.oathsworn.mainCampaign.MainActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.shadowborne_games.oathsworn.mainCampaign.MainActivity"/>
+        </activity>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_settings" android:name="com.shadowborne_games.oathsworn.mainNonCampaign.SettingsActivity" android:screenOrientation="landscape" android:parentActivityName="com.shadowborne_games.oathsworn.mainCampaign.MainActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.shadowborne_games.oathsworn.mainCampaign.MainActivity"/>
+        </activity>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:label="@string/title_activity_about" android:name="com.shadowborne_games.oathsworn.mainNonCampaign.AboutActivity" android:screenOrientation="landscape" android:parentActivityName="com.shadowborne_games.oathsworn.mainCampaign.MainActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.shadowborne_games.oathsworn.mainCampaign.MainActivity"/>
+        </activity>
+        <activity android:theme="@style/AppTheme.NoActionBar" android:name="com.shadowborne_games.oathsworn.mainCampaign.MainActivity" android:exported="true" android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+                <action android:name="android.intent.action.VIEW"/>
+            </intent-filter>
+        </activity>
+        <activity android:theme="@style/AppTheme.PopupTheme" android:name="com.shadowborne_games.oathsworn.mainCampaign.popUps.OpenInstructions"/>
+        <activity android:theme="@style/AppTheme.PopupTheme" android:name="com.shadowborne_games.oathsworn.mainCampaign.popUps.PopUpMenu"/>
+        <activity android:theme="@style/AppTheme.PopupTheme" android:name="com.shadowborne_games.oathsworn.mainCampaign.popUps.PopUp"/>
+        <provider android:name="androidx.startup.InitializationProvider" android:exported="false" android:authorities="com.shadowborne_games.oathsworn.androidx-startup">
+            <meta-data android:name="androidx.emoji2.text.EmojiCompatInitializer" android:value="androidx.startup"/>
+            <meta-data android:name="androidx.lifecycle.ProcessLifecycleInitializer" android:value="androidx.startup"/>
+        </provider>
+    </application>
+</manifest>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" android:background="@drawable/oathsworn_background" android:layout_width="match_parent" android:layout_height="match_parent" android:keepScreenOn="true">
+    <include layout="@layout/content_main"/>
+    <fragment android:name="com.shadowborne_games.oathsworn.mainNonCampaign.CloseAppFragment" android:id="@+id/fragment_close_app" android:layout_width="match_parent" android:layout_height="match_parent"/>
+    <fragment android:name="com.shadowborne_games.oathsworn.mainNonCampaign.FabFragment" android:id="@+id/fragment_fab" android:layout_width="match_parent" android:layout_height="match_parent"/>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
