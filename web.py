@@ -1,5 +1,6 @@
 import re
 import xml.etree.ElementTree as ET
+from natsort import natsorted
 import os
 
 # Function to parse strings.xml and return a dictionary of string names to values
@@ -131,10 +132,16 @@ with open('output/_navbar.md', 'w') as navbar_file:
 for chapter_dir in os.listdir('output'):
     if os.path.isdir(f'output/{chapter_dir}'):
         sidebar_content = "- Section Selection\n"
-        for file in os.listdir(f'output/{chapter_dir}'):
-            if file.endswith('.md') and not file.startswith('_'):
-                section_name = file[:-3] # Remove '.md' from the file name
-                sidebar_content += f'  - [{section_name}](/output/{chapter_dir}/{file})\n'
+        # Collect all section files in a list
+        section_files = [file for file in os.listdir(f'output/{chapter_dir}') if file.endswith('.md') and not file.startswith('_')]
+        
+        # Sort the section files using natsort
+        sorted_section_files = natsorted(section_files)
+        
+        # Generate sidebar content with sorted section files
+        for file in sorted_section_files:
+            section_name = file[:-3] # Remove '.md' from the file name
+            sidebar_content += f' - [{section_name}](/output/{chapter_dir}/{file})\n'
         
         with open(f'output/{chapter_dir}/_sidebar.md', 'w') as sidebar_file:
             sidebar_file.write(sidebar_content)
