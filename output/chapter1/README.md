@@ -1,13 +1,21 @@
 
 # chapter1
 
-Welcome to chapter1, head to [section_0](#section_0) to begin...
+Welcome to chapter1, head to [section_0](/output/chapter1/section_0.md) to begin...
 
 ## Sections
 
 - [README](/output/chapter1/README.md)
 - [section_0](/output/chapter1/section_0.md)
 - [section_1](/output/chapter1/section_1.md)
+- [section_2](/output/chapter1/section_2.md)
+- [section_3](/output/chapter1/section_3.md)
+- [section_4](/output/chapter1/section_4.md)
+- [section_5](/output/chapter1/section_5.md)
+- [section_6](/output/chapter1/section_6.md)
+- [section_7](/output/chapter1/section_7.md)
+- [section_8](/output/chapter1/section_8.md)
+- [section_9](/output/chapter1/section_9.md)
 - [section_10](/output/chapter1/section_10.md)
 - [section_11](/output/chapter1/section_11.md)
 - [section_12](/output/chapter1/section_12.md)
@@ -18,7 +26,6 @@ Welcome to chapter1, head to [section_0](#section_0) to begin...
 - [section_17](/output/chapter1/section_17.md)
 - [section_18](/output/chapter1/section_18.md)
 - [section_19](/output/chapter1/section_19.md)
-- [section_2](/output/chapter1/section_2.md)
 - [section_20](/output/chapter1/section_20.md)
 - [section_21](/output/chapter1/section_21.md)
 - [section_22](/output/chapter1/section_22.md)
@@ -29,7 +36,6 @@ Welcome to chapter1, head to [section_0](#section_0) to begin...
 - [section_27](/output/chapter1/section_27.md)
 - [section_28](/output/chapter1/section_28.md)
 - [section_29](/output/chapter1/section_29.md)
-- [section_3](/output/chapter1/section_3.md)
 - [section_30](/output/chapter1/section_30.md)
 - [section_31](/output/chapter1/section_31.md)
 - [section_32](/output/chapter1/section_32.md)
@@ -40,7 +46,6 @@ Welcome to chapter1, head to [section_0](#section_0) to begin...
 - [section_37](/output/chapter1/section_37.md)
 - [section_38](/output/chapter1/section_38.md)
 - [section_39](/output/chapter1/section_39.md)
-- [section_4](/output/chapter1/section_4.md)
 - [section_40](/output/chapter1/section_40.md)
 - [section_41](/output/chapter1/section_41.md)
 - [section_42](/output/chapter1/section_42.md)
@@ -51,7 +56,6 @@ Welcome to chapter1, head to [section_0](#section_0) to begin...
 - [section_47](/output/chapter1/section_47.md)
 - [section_48](/output/chapter1/section_48.md)
 - [section_49](/output/chapter1/section_49.md)
-- [section_5](/output/chapter1/section_5.md)
 - [section_50](/output/chapter1/section_50.md)
 - [section_51](/output/chapter1/section_51.md)
 - [section_52](/output/chapter1/section_52.md)
@@ -62,7 +66,6 @@ Welcome to chapter1, head to [section_0](#section_0) to begin...
 - [section_57](/output/chapter1/section_57.md)
 - [section_58](/output/chapter1/section_58.md)
 - [section_59](/output/chapter1/section_59.md)
-- [section_6](/output/chapter1/section_6.md)
 - [section_60](/output/chapter1/section_60.md)
 - [section_61](/output/chapter1/section_61.md)
 - [section_62](/output/chapter1/section_62.md)
@@ -73,7 +76,6 @@ Welcome to chapter1, head to [section_0](#section_0) to begin...
 - [section_67](/output/chapter1/section_67.md)
 - [section_68](/output/chapter1/section_68.md)
 - [section_69](/output/chapter1/section_69.md)
-- [section_7](/output/chapter1/section_7.md)
 - [section_70](/output/chapter1/section_70.md)
 - [section_71](/output/chapter1/section_71.md)
 - [section_72](/output/chapter1/section_72.md)
@@ -84,8 +86,6 @@ Welcome to chapter1, head to [section_0](#section_0) to begin...
 - [section_77](/output/chapter1/section_77.md)
 - [section_78](/output/chapter1/section_78.md)
 - [section_79](/output/chapter1/section_79.md)
-- [section_8](/output/chapter1/section_8.md)
 - [section_80](/output/chapter1/section_80.md)
 - [section_81](/output/chapter1/section_81.md)
 - [section_82](/output/chapter1/section_82.md)
-- [section_9](/output/chapter1/section_9.md)

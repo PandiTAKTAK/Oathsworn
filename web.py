@@ -173,15 +173,21 @@ for chapter_dir in os.listdir('output'):
         readme_content = f"""
 # {chapter_dir}
 
-Welcome to {chapter_dir}, head to [section_0](#section_0) to begin...
+Welcome to {chapter_dir}, head to [section_0](/output/{chapter_dir}/section_0.md) to begin...
 
 ## Sections
 
 """
-        for file in os.listdir(f'output/{chapter_dir}'):
-            if file.endswith('.md') and not file.startswith('_'):
-                section_name = file[:-3] # Remove '.md' from the file name
-                readme_content += f'- [{section_name}](/output/{chapter_dir}/{file})\n'
+        # Collect all section files in a list
+        section_files = [file for file in os.listdir(f'output/{chapter_dir}') if file.endswith('.md') and not file.startswith('_')]
+        
+        # Sort the section files using natsort
+        sorted_section_files = natsorted(section_files)
+        
+        # Generate README content with sorted section files
+        for file in sorted_section_files:
+            section_name = file[:-3] # Remove '.md' from the file name
+            readme_content += f'- [{section_name}](/output/{chapter_dir}/{file})\n'
 
         with open(f'output/{chapter_dir}/README.md', 'w') as chapter_readme_file:
             chapter_readme_file.write(readme_content)
