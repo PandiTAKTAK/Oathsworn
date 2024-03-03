@@ -3,7 +3,7 @@
 
 ## Chapter 1 - Bastone
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_24_1a_a.mp3" type="audio/mpeg"></audio>
+[chp1_24_1a_a](../../decomp/app/src/main/res/raw/chp1_24_1a_a.mp3 ':include :type=audio')
 
 ### Location 24 – The Burrows
 

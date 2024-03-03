@@ -5,7 +5,7 @@
 
 !>**PERFORM A SPOT CHECK (DIFFICULTY 4).**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_4_1__a.mp3" type="audio/mpeg"></audio>
+[chp1_4_1__a](../../decomp/app/src/main/res/raw/chp1_4_1__a.mp3 ':include :type=audio')
 
 ### Location 4 – The Alley
 

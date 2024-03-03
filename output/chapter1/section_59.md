@@ -7,7 +7,7 @@
 
 DEFINE A KEY ATTRIBUTE OF YOUR FREE COMPANY BY CHOOSING WHICH ONE OF THE FOLLOWING STATEMENTS MOST ACCURATELY DESCRIBES YOUR COMPANY:**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_22_1__a.mp3" type="audio/mpeg"></audio>
+[chp1_22_1__a](../../decomp/app/src/main/res/raw/chp1_22_1__a.mp3 ':include :type=audio')
 
 ### As you approach the thick wooden gate, a small slat slides unevenly open and a weary, coal-caked face peers out.
 

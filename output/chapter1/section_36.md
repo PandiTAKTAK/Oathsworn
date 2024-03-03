@@ -5,7 +5,7 @@
 
 !>**ALL OATHSWORN GAIN AN EMPOWERED X3 TOKEN.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_17_2__c.mp3" type="audio/mpeg"></audio>
+[chp1_17_2__c](../../decomp/app/src/main/res/raw/chp1_17_2__c.mp3 ':include :type=audio')
 
 Before his blade is fully drawn, the closest of you has his wrist and throat in your hands. You wrench him backwards, forcing him over the parapet. Terror seizes the man as nothing but air and the maw of the Deepwood open up below him. You hold him there and he immediately begins to spill all he knows and more besides. The other guards, shocked, have kept their distance allowing you to take in what he has to say.
 

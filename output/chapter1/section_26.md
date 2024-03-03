@@ -7,7 +7,7 @@
 
 If you have Clue Token 1 - PLACE LOCATION TOKEN 4.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_14_1__a.mp3" type="audio/mpeg"></audio>
+[chp1_14_1__a](../../decomp/app/src/main/res/raw/chp1_14_1__a.mp3 ':include :type=audio')
 
 ### Location 14 – The Town Square
 

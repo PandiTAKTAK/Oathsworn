@@ -5,9 +5,9 @@
 
 !>**PERFORM A ROUND OF COMBAT AGAINST DEFENSE 4.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_17_3__a.mp3" type="audio/mpeg"></audio>
+[chp1_17_3__a](../../decomp/app/src/main/res/raw/chp1_17_3__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_17_3__c.mp3" type="audio/mpeg"></audio>
+[chp1_17_3__c](../../decomp/app/src/main/res/raw/chp1_17_3__c.mp3 ':include :type=audio')
 
 ### As the man draws his weapon, the closest of you tries to grab him by the wrist and throat. He wrenches free, and with practised technique the other guards draw their blades too. They attack.
 

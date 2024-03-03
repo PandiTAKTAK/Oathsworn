@@ -1,4 +1,5 @@
 - Section Selection
+  - [README](/output/chapter1/README.md)
   - [section_0](/output/chapter1/section_0.md)
   - [section_1](/output/chapter1/section_1.md)
   - [section_10](/output/chapter1/section_10.md)

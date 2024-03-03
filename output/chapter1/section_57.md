@@ -11,9 +11,9 @@ ADD A TIME TOKEN TO THE TIME TRACK.**
 
 !>**PLACE LOCATION TOKEN 22 AND GO THERE.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_21_2__a.mp3" type="audio/mpeg"></audio>
+[chp1_21_2__a](../../decomp/app/src/main/res/raw/chp1_21_2__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_21_2__c.mp3" type="audio/mpeg"></audio>
+[chp1_21_2__c](../../decomp/app/src/main/res/raw/chp1_21_2__c.mp3 ':include :type=audio')
 
 ### A driving rain batters the city walls as its ancient gray stones stand in defiance of the Deepwood's reaching limbs and the beasts that stalk beneath them.
 

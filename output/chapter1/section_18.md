@@ -5,7 +5,7 @@
 
 !>**PERFORM A THREATENING CHECK (DIFFICULTY 3).**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_4_16__a.mp3" type="audio/mpeg"></audio>
+[chp1_4_16__a](../../decomp/app/src/main/res/raw/chp1_4_16__a.mp3 ':include :type=audio')
 
 ### You loom over the prone vagrant, secure your weapon belt and ask him what he knows about this place.
 

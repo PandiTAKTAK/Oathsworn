@@ -3,7 +3,7 @@
 
 ## Chapter 1 - Bastone
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_4_5__a.mp3" type="audio/mpeg"></audio>
+[chp1_4_5__a](../../decomp/app/src/main/res/raw/chp1_4_5__a.mp3 ':include :type=audio')
 
 ### Before it is even clearly in the light, practiced moves see your weapons passing through the approaching mass. There is a wailing scream.
 

@@ -5,9 +5,9 @@
 
 !>**PERFORM A ROUND OF COMBAT AGAINST DEFENSE 4.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_17_6__a.mp3" type="audio/mpeg"></audio>
+[chp1_17_6__a](../../decomp/app/src/main/res/raw/chp1_17_6__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_17_6__c.mp3" type="audio/mpeg"></audio>
+[chp1_17_6__c](../../decomp/app/src/main/res/raw/chp1_17_6__c.mp3 ':include :type=audio')
 
 ### You release the squad leader from your grasp. He plummets from the wall, impaling himself on the thick spike bed below. Before his screaming stops, you round on the squad. They are terrified, but they are still soldiers. Knowing their lives depend on it, they draw swords.
 

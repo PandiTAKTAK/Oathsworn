@@ -92,7 +92,7 @@ for i, section_content in enumerate(sections):
         raw_refs = re.findall(raw_pattern, line)
         for ref in raw_refs:
             relative_path = f"../../decomp/app/src/main/res/raw/{ref}.mp3"
-            markdown_content += f'<audio controls><source src="{relative_path}" type="audio/mpeg"></audio>\n\n'
+            markdown_content += f'[{ref}]({relative_path} \':include :type=audio\')\n\n'
         
         # Process R.drawable. references
         drawable_pattern = r"R\.drawable\.(\w+)"
@@ -108,7 +108,7 @@ for i, section_content in enumerate(sections):
             else:
                 file_path = f"{drawable_dir}/{ref}" # Fallback, assuming no extension needed
             relative_path = f"../../{file_path}"
-            markdown_content += f'![]({relative_path})\n\n'
+            markdown_content += f'![{ref}]({relative_path})\n\n'
     
     # Generate Markdown for the section, correctly reflecting the 0-based indexing for section number
     markdown_page = markdown_template.format(section_number=i, chapter_text=chapter_text, section_content=markdown_content)

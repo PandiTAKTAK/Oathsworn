@@ -7,9 +7,9 @@
 
 !>**PLACE LOCATION TOKENS 11, 17 and 25.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_24_2__a.mp3" type="audio/mpeg"></audio>
+[chp1_24_2__a](../../decomp/app/src/main/res/raw/chp1_24_2__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_24_2__c.mp3" type="audio/mpeg"></audio>
+[chp1_24_2__c](../../decomp/app/src/main/res/raw/chp1_24_2__c.mp3 ':include :type=audio')
 
 ### "I suppose I have no choice. I'll take 2 iron. They'll eat for a while now. Thank you."
 

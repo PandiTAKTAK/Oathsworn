@@ -5,7 +5,7 @@
 
 !>**PLACE LOCATION TOKENS 11, 17 and 25.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_24_5__a.mp3" type="audio/mpeg"></audio>
+[chp1_24_5__a](../../decomp/app/src/main/res/raw/chp1_24_5__a.mp3 ':include :type=audio')
 
 ### You surround the man and finger your weapons. His eyes dart between you. You ask him what he knows. He shudders when you make eye contact with his family through the window and he nods, raising his hands in appeasement.
 

@@ -7,11 +7,11 @@
 
 !>**ALL OATHSWORN GAIN 1 IRON EACH.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_15_6__a.mp3" type="audio/mpeg"></audio>
+[chp1_15_6__a](../../decomp/app/src/main/res/raw/chp1_15_6__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_15_6__c.mp3" type="audio/mpeg"></audio>
+[chp1_15_6__c](../../decomp/app/src/main/res/raw/chp1_15_6__c.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_15_6__e.mp3" type="audio/mpeg"></audio>
+[chp1_15_6__e](../../decomp/app/src/main/res/raw/chp1_15_6__e.mp3 ':include :type=audio')
 
 ### Fear is this group's strongest weapon and it finds no purchase on you. Your weapons are already out of their sheathes. Your attackers are unprepared for a retaliation from trained warriors.
 

@@ -5,9 +5,9 @@
 
 AFTER THE ENCOUNTER, CONTINUE TO THE EPILOGUE.
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/encounter_audio.mp3" type="audio/mpeg"></audio>
+[encounter_audio](../../decomp/app/src/main/res/raw/encounter_audio.mp3 ':include :type=audio')
 
-![](../../decomp/app/src/main/res/drawable-land-xxxhdpi/chapter_1.jpg)
+![chapter_1](../../decomp/app/src/main/res/drawable-land-xxxhdpi/chapter_1.jpg)
 
 [Epilogue](output/chapter1/section_81.md)
 

@@ -7,9 +7,9 @@
 
 !>**PLACE LOCATION TOKENS 11, 17 and 25.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_24_6__a.mp3" type="audio/mpeg"></audio>
+[chp1_24_6__a](../../decomp/app/src/main/res/raw/chp1_24_6__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_24_6__c.mp3" type="audio/mpeg"></audio>
+[chp1_24_6__c](../../decomp/app/src/main/res/raw/chp1_24_6__c.mp3 ':include :type=audio')
 
 ### You surround the man, his head whipping between you as you walk slowly around him. You press him for what he knows, but looking back at his family, he stands tall. "I lost a young'un a week back and you come at me like this? You wanna know anything, you're paying double. Bunch of curs."
 

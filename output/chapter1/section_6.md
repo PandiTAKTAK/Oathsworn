@@ -5,7 +5,7 @@
 
 !>**SECRET DECISION. SET YOUR DIE TO 1 IF YOU WISH TO ATTACK, OR TO 2 IF YOU DO NOT WISH TO ATTACK.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_4_4__a.mp3" type="audio/mpeg"></audio>
+[chp1_4_4__a](../../decomp/app/src/main/res/raw/chp1_4_4__a.mp3 ':include :type=audio')
 
 ### You squeeze through the hatch into a dark maze of rough-hewn passages, your torches glowing pale blue in the noxious air. Ankle-deep in waste and muck, you slog through winding tunnels, kicking aside rats and brushing away cobwebs, looking for any clue as to what might be behind this.
 

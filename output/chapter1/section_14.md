@@ -5,9 +5,9 @@
 
 !>**ALL OATHSWORN GAIN A REDRAW TOKEN.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_4_12__a.mp3" type="audio/mpeg"></audio>
+[chp1_4_12__a](../../decomp/app/src/main/res/raw/chp1_4_12__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_4_12__c.mp3" type="audio/mpeg"></audio>
+[chp1_4_12__c](../../decomp/app/src/main/res/raw/chp1_4_12__c.mp3 ':include :type=audio')
 
 ### You coat the area in oil and cleave to the shadows, lying in wait for the trap to be sprung. Twilight is settling beyond the hole when the scratchings of clawed feet can be heard outside. Sedric breathes heavily in anticipation for what's to come. He seems to enjoy his work.
 

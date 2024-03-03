@@ -5,7 +5,7 @@
 
 !>**PLACE LOCATION TOKENS 2, 3, 7, 12, 13, 14, 16 and 19.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_22_5__a.mp3" type="audio/mpeg"></audio>
+[chp1_22_5__a](../../decomp/app/src/main/res/raw/chp1_22_5__a.mp3 ':include :type=audio')
 
 ### "Inn, tavern, or pub?" Midge grins. You're not sure what the difference is between the last two, but correct his expectations and explain that you need to know more about the bodies.
 

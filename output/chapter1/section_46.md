@@ -5,7 +5,7 @@
 
 !>**REVEAL THE ENCOUNTER SPECIAL RULES BOARD. MARK THE SPECIAL RULES BOX FOR CHAPTER 1 ON YOUR FREE COMPANY SHEET.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_17_12__a.mp3" type="audio/mpeg"></audio>
+[chp1_17_12__a](../../decomp/app/src/main/res/raw/chp1_17_12__a.mp3 ':include :type=audio')
 
 ### The man leans on his sword visibly shaking, then stands straight collecting himself.
 

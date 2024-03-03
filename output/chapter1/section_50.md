@@ -13,9 +13,9 @@ IF YOU DO NOT HAVE THE MYSTERY CHEST, OPEN MYSTERY ENVELOPE 1.
 
 PROCEED TO THE CHAPTER 1 ENCOUNTER IN THE ENCOUNTER BOOK.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_17_16__a.mp3" type="audio/mpeg"></audio>
+[chp1_17_16__a](../../decomp/app/src/main/res/raw/chp1_17_16__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_17_16__c.mp3" type="audio/mpeg"></audio>
+[chp1_17_16__c](../../decomp/app/src/main/res/raw/chp1_17_16__c.mp3 ':include :type=audio')
 
 ### You look off to the treeline and check your compass. This item is near sacred to you as well as all Free Companies. It is the only chance you have of navigating your way back after you enter the Deepwood. You steel yourself and head in.
 

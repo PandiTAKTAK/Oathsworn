@@ -7,9 +7,9 @@
 
 !>**PLACE LOCATION TOKENS 11, 17 and 25.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_24_3__a.mp3" type="audio/mpeg"></audio>
+[chp1_24_3__a](../../decomp/app/src/main/res/raw/chp1_24_3__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_24_3__c.mp3" type="audio/mpeg"></audio>
+[chp1_24_3__c](../../decomp/app/src/main/res/raw/chp1_24_3__c.mp3 ':include :type=audio')
 
 ### "I lost a young'un a week back and you come here with all your finery trying to haggle," the man says pointing to your iron weapons. He doubles the price and will not move on it.
 

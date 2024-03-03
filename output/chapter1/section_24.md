@@ -5,9 +5,9 @@
 
 !>**EACH OATHSWORN MAY TRADE 1 IRON TO GAIN A +2 ANIMUS TOKEN (ONCE).**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_12_1__a.mp3" type="audio/mpeg"></audio>
+[chp1_12_1__a](../../decomp/app/src/main/res/raw/chp1_12_1__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_12_1__c.mp3" type="audio/mpeg"></audio>
+[chp1_12_1__c](../../decomp/app/src/main/res/raw/chp1_12_1__c.mp3 ':include :type=audio')
 
 ### Location 12 – The Market
 

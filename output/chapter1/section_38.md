@@ -5,9 +5,9 @@
 
 !>**PERFORM A ROUND OF COMBAT AGAINST DEFENSE 4.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_17_4__a.mp3" type="audio/mpeg"></audio>
+[chp1_17_4__a](../../decomp/app/src/main/res/raw/chp1_17_4__a.mp3 ':include :type=audio')
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_17_4__c.mp3" type="audio/mpeg"></audio>
+[chp1_17_4__c](../../decomp/app/src/main/res/raw/chp1_17_4__c.mp3 ':include :type=audio')
 
 ### You open your hand showing iron. The squad leader looks at it for a moment, then smirks.
 

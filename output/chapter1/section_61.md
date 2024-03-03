@@ -3,7 +3,7 @@
 
 ## Chapter 1 - Bastone
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_22_4a_a.mp3" type="audio/mpeg"></audio>
+[chp1_22_4a_a](../../decomp/app/src/main/res/raw/chp1_22_4a_a.mp3 ':include :type=audio')
 
 ### Encouraged by the fact you haven't left, the boy redoubles his efforts. "Midge is the name and there's none finer to see you round these parts. It is clear you've no more need of muscle, but I've another skill. I can read. That's right. I stand before you as scout, guide, scholar and sage."
 

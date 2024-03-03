@@ -9,7 +9,7 @@ ALL OATHSWORN GAIN AN EMPOWERED X3 TOKEN.**
 
 !>**PLACE LOCATION TOKENS 11, 17 and 25.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_24_4__c.mp3" type="audio/mpeg"></audio>
+[chp1_24_4__c](../../decomp/app/src/main/res/raw/chp1_24_4__c.mp3 ':include :type=audio')
 
 "I …I don't know what to say. Thank you and those who watch over you. Lost my little girl, Espa, a week back," the man utters, a tear in his eye. "This might just save the rest."
 

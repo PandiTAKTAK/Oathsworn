@@ -7,7 +7,7 @@
 
 EACH OATHSWORN THAT FAILS THIS CHECK, FALLS, HURTING THEMSELVES. THEY LOSE 1 HIT POINT.**
 
-<audio controls><source src="../../decomp/app/src/main/res/raw/chp1_4_6__a.mp3" type="audio/mpeg"></audio>
+[chp1_4_6__a](../../decomp/app/src/main/res/raw/chp1_4_6__a.mp3 ':include :type=audio')
 
 ### As it scampers closer, you can make out a hunched mass of ragged hair. You ready your weapons at the approach.
 
