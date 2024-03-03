@@ -11,7 +11,7 @@
 
 "You saved my life. Thank you." The man turns to you as he cleans himself up. "I am Dane. I, I had to try and save her. Stupid to think I could. There were so many of them. For weeks now they have been throwing bodies off the wall and I was too cowardly to try to stop them. Then they threw her over. She was still alive. I saw her crawling. Then the rats came and dragged her into the trees. She may still be alive. Help me. Help her."
 
-You inspect one of the rat corpses as he explains. You note the length of the tail, the color of the teeth and the clawed paws. This was a pup, not full grown. You know rats have dozens of pups…dozens. Where's the mother though? A woman's scream pierces the Deepwood behind you. You're about to find out.
+You inspect one of the rat corpses as he explains. You note the length of the tail, the color of the teeth and the clawed paws. This was a pup, not full grown. You know rats have dozens of pupsâ€¦dozens. Where's the mother though? A woman's scream pierces the Deepwood behind you. You're about to find out.
 
 Choose one:
 

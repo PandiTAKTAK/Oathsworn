@@ -5,7 +5,7 @@
 
 [chp1_7_1__a](../../decomp/app/src/main/res/raw/chp1_7_1__a.mp3 ':include :type=audio')
 
-### Location 7 – The Underways
+### Location 7 â€“ The Underways
 
 Ancient wooden doors mark the entrance to the underways below the city. Inside, looming passages of moist soil, well timbered up and tended, lead ever downward. Women with tied back hair carry buckets of roots or yokes of water on their shoulders as men work the dark loam, sweating in the dull glow of amber lanterns.
 

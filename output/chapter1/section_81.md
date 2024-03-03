@@ -17,7 +17,7 @@ When you arrive back at Bastone, you are met by a squad of guards.
 
 You raise the severed head of the Broodmother to the guard's face. The men recoil.
 
-"Well… well done. I have been instructed to give you this iron in payment and to tell you that Lord Davenish would meet with you tomorrow morning. He has paid for your lodgings at The Broken Oak Inn during your stay. I would suggest retiring there now as his lordship will not suffer tardiness tomorrow."
+"Wellâ€¦ well done. I have been instructed to give you this iron in payment and to tell you that Lord Davenish would meet with you tomorrow morning. He has paid for your lodgings at The Broken Oak Inn during your stay. I would suggest retiring there now as his lordship will not suffer tardiness tomorrow."
 
 You hand the guard the head and take the iron.
 

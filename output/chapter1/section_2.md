@@ -7,7 +7,7 @@
 
 [chp1_3_1__a](../../decomp/app/src/main/res/raw/chp1_3_1__a.mp3 ':include :type=audio')
 
-### Location 3 – The Apothecary
+### Location 3 â€“ The Apothecary
 
 You have heard there is an Apothecary of sorts in this quarter, situated on the rooftop of a tenement. When you arrive you find a stand-alone shack surrounded by gardens and a queue of people.
 
@@ -15,7 +15,7 @@ Forcing your way to the door you enter and find a room which is something betwee
 
 "Wait your turn," the woman says angrily without looking up. When you make no move to leave, she wheels on you, then stops.
 
-A moment of panic crosses her face, but she quickly rights herself, "Oathsworn…You'd better be dying or know someone who's dying to barge in like this…"
+A moment of panic crosses her face, but she quickly rights herself, "Oathswornâ€¦You'd better be dying or know someone who's dying to barge in like thisâ€¦"
 
 You assuage her concerns and tell her you want to know about the rising body count in the town. "Well I wouldn't know about that. The dead don't tend to come to me for pulses, now do they?"
 

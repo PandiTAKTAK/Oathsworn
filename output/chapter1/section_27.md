@@ -5,7 +5,7 @@
 
 [chp1_15_1__a](../../decomp/app/src/main/res/raw/chp1_15_1__a.mp3 ':include :type=audio')
 
-### Location 15 – The Shades
+### Location 15 â€“ The Shades
 
 Heading up the street you believe is the right choice, you push through crowds and navigate around huddled clumps of the homeless, squatting toad-like around small fires. The barking of vendors eventually gives way to sobbing and indistinct mewling noises as you enter a series of shadowed alleys. There are fewer and fewer people here and darkness hugs the street as you make your way up a narrowing avenue.
 

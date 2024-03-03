@@ -9,7 +9,7 @@
 
 [chp1_12_1__c](../../decomp/app/src/main/res/raw/chp1_12_1__c.mp3 ':include :type=audio')
 
-### Location 12 – The Market
+### Location 12 â€“ The Market
 
 The Market square is filled with vendors hawking wares from carts and tables. The sounds of people shouting and the smell of smoked meats and root vegetables fill the air. Dozens of hunched and tired shoulders make their way from one trade to the next.
 

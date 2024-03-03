@@ -11,7 +11,7 @@ DEFINE A KEY ATTRIBUTE OF YOUR FREE COMPANY BY CHOOSING WHICH ONE OF THE FOLLOWI
 
 ### As you approach the thick wooden gate, a small slat slides unevenly open and a weary, coal-caked face peers out.
 
-Moments pass as he eyes you with suspicion taking inventory of your many weapons. Then one of you reveals the mark on your wrist. He grimaces, "Free Company …eerrr… let me get this open."
+Moments pass as he eyes you with suspicion taking inventory of your many weapons. Then one of you reveals the mark on your wrist. He grimaces, "Free Company â€¦eerrrâ€¦ let me get this open."
 
 The slat slams shut and you hear chains strain as a mechanism pulls the gate open, swinging out just wide enough to squeeze through. You move into the gateway passage and find it blocked ahead by an iron portcullis, a second layer of defense creating a quarantine area. In the passage with you is a single table, lit by a foul smelling lantern on the wall. You hand him your papers.
 

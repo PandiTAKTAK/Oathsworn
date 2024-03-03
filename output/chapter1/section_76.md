@@ -11,7 +11,7 @@ ALL OATHSWORN GAIN AN EMPOWERED X3 TOKEN.**
 
 [chp1_24_4__c](../../decomp/app/src/main/res/raw/chp1_24_4__c.mp3 ':include :type=audio')
 
-"I …I don't know what to say. Thank you and those who watch over you. Lost my little girl, Espa, a week back," the man utters, a tear in his eye. "This might just save the rest."
+"I â€¦I don't know what to say. Thank you and those who watch over you. Lost my little girl, Espa, a week back," the man utters, a tear in his eye. "This might just save the rest."
 
 "It's the dead you need to find. People live, people die," he gestures to the wretched homeless lining the alley on either side of the street. "When they do, the collector comes to clear. It used to be me. Take bodies, take names if they had any, and burn them. No sickness then."
 

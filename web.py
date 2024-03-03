@@ -28,7 +28,7 @@ strings_dict = parse_strings_xml(strings_xml_path)
 java_file_path = "decomp/app/src/main/java/com/shadowborne_games/oathsworn/book/Chapter1.java"
 
 # Open the Java file and read its content
-with open(java_file_path, 'r') as file:
+with open(java_file_path, 'r', encoding='utf-8') as file:
     content = file.read()
 
 # Regular expression pattern to match each section definition
@@ -114,7 +114,7 @@ for i, section_content in enumerate(sections):
     markdown_page = markdown_template.format(section_number=i, chapter_text=chapter_text, section_content=markdown_content)
     
     # Save the Markdown content to a file in the chapter directory
-    with open(f"{output_dir}/section_{i}.md", "w") as markdown_file:
+    with open(f"{output_dir}/section_{i}.md", "w", encoding='utf-8') as markdown_file:
         markdown_file.write(markdown_page)
 
 # Dynamically generate _navbar.md

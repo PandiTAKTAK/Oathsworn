@@ -5,7 +5,7 @@
 
 [chp1_2_1__a](../../decomp/app/src/main/res/raw/chp1_2_1__a.mp3 ':include :type=audio')
 
-### Location 2 – The Archive
+### Location 2 â€“ The Archive
 
 You find the town archives and an irksome clerk named Millus. "The deaths, I presume," the clerk says dismissively. "I suppose you should follow me then. Everything is collected. You will not find our numbers wanting. Move nothing!"
 
