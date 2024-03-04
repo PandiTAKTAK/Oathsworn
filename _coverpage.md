@@ -1,4 +1,4 @@
-![logo](decomp\app\src\main\res\drawable-land-xxxhdpi\oathsworn_logo.png)
+![Oathsworn logo](decomp\app\src\main\res\drawable-land-xxxhdpi\oathsworn_logo.png)
 
 >  Oathsworn's story phase in your browser...
 

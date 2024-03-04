@@ -29,6 +29,12 @@
     section.cover.show {
         height: 100%;
     }
+
+    .footer {
+        background-image: url('decomp/app/src/main/res/drawable/logo_test.png');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
   </style>
   <script>
     var repoURL = "https://github.com/PandiTAKTAK/Oathsworn";
@@ -55,8 +61,8 @@
       branch: "trunk",
       },
       footer: {
-        copy: '&copy; James Marsden, 2024<br />',
-        auth: 'TAKTAK - taktak.co.uk',
+        copy: 'Content &copy; Shadowborne Games, 2021<br />',
+        auth: 'This site is an unaffiliated creation - taktak.co.uk',
         pre: '<hr />',
         style: 'text-align: right;',
         class: 'footer',
@@ -71,12 +77,6 @@
       'flexible-alerts': {
         style: 'callout',
       },
-      pagination: {
-        previousText: 'PREVIOUS',
-        nextText: 'NEXT',
-        crossChapter: true,
-        crossChapterText: true,
-      },
     }
   </script>
 
@@ -89,8 +89,6 @@
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
   <!-- Title config -->
   <script src="//cdn.jsdelivr.net/npm/@sujaykumarh/docsify-plugin-title@2.x/dist/plugin.min.js"></script>
-  <!-- Pagination plugin -->
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <!-- Footer -->
   <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
   <!-- Edit in GitHub -->

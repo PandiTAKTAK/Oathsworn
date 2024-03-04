@@ -1,12 +1,7 @@
 
 # Story Phase
 
-!> Significant spoilers lay ahead. To avoid spoilers click carefully...
+!> Significant spoilers lay ahead, click carefully to avoid...
 
-?> The scripted output hasn't been validated, there may be errors or missing content.
+Select a chapter to play via the drop down in the top right.
 
-Select a chapter to play.
-
-## Chapters
-
-- [chapter1](/output/chapter1/)
