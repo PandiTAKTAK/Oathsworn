@@ -160,20 +160,28 @@ Welcome to {chapter_dir}, head to [section_0](/output/{chapter_dir}/section_0.md
 # Main script execution
 if __name__ == "__main__":
     strings_xml_path = "decomp/app/src/main/res/values/strings.xml"
-    java_file_path = "decomp/app/src/main/java/com/shadowborne_games/oathsworn/book/Chapter1.java"
-    output_dir = "output/chapter1"
-    markdown_template = """
+    output_dir_base = "output/chapter"
+    chapter_text_key_base = "chapterText"
+    
+    # Chapter Loop (not handling 11.5)
+    ChaptersToGenerate = 1
+    for chapter_number in range(1, (ChaptersToGenerate+1)):
+        print("Generating chapter", chapter_number)
+        java_file_path = f"decomp/app/src/main/java/com/shadowborne_games/oathsworn/book/Chapter{chapter_number}.java"
+        output_dir = f"{output_dir_base}{chapter_number}"
+        chapter_text_key = f"{chapter_text_key_base}{chapter_number}"
+        
+        strings_dict = parse_strings_xml(strings_xml_path)
+        sections = extract_section_contents(java_file_path)
+        locations = extract_location_contents(java_file_path)
+        chapter_text = strings_dict.get(chapter_text_key, "No chapter text found")
+        
+        markdown_template = """
 # section_{section_number}
 
 {section_content}
 """
-    
-    strings_dict = parse_strings_xml(strings_xml_path)
-    sections = extract_section_contents(java_file_path)
-    locations = extract_location_contents(java_file_path)
-    chapter_text_key = "chapterText1"
-    chapter_text = strings_dict.get(chapter_text_key, "No chapter text found")
-    
-    generate_markdown_content(strings_dict, sections, locations, chapter_text, output_dir, markdown_template)
-    generate_navigation_files(output_dir)
-    generate_readme_files(output_dir)
+        
+        generate_markdown_content(strings_dict, sections, locations, chapter_text, output_dir, markdown_template)
+        generate_navigation_files(output_dir)
+        generate_readme_files(output_dir)
