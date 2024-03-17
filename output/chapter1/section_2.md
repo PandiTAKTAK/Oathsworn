@@ -3,8 +3,6 @@
 
 ## Chapter 1 - Bastone
 
-!>**YOU MAY START A TRADE WITH THE APOTHECARY.**  
-
 [chp1_3_1__a](../../decomp/app/src/main/res/raw/chp1_3_1__a.mp3 ':include :type=audio')
 
 Location 3 – The Apothecary
@@ -26,6 +24,8 @@ You assuage her concerns and tell her you want to know about the rising body cou
 "You killed my Da!! You Witch!" Comes a small boy's voice from outside. "She cursed him, I saw it!" This is followed by the sound of small feet running away across the rooftop.
 
 The apothecary is visibly shaken. You ask her what that was about, but she busies herself picking up glass and refuses to talk any further. If she knew anything, she was not forthcoming about it and will be less so now.
+
+!>**YOU MAY START A TRADE WITH THE APOTHECARY.**  
 
 Choose a location to go to:
 

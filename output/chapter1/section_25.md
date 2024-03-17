@@ -3,8 +3,6 @@
 
 ## Chapter 1 - Bastone
 
-!>**GAIN CLUE TOKEN 1.  If you have Clue Token 2, PLACE LOCATION TOKEN 4.**  
-
 [chp1_13_1__a](../../decomp/app/src/main/res/raw/chp1_13_1__a.mp3 ':include :type=audio')
 
 Location 13 – The Broken Oak
@@ -22,6 +20,8 @@ A newcomer steps up beside him. "Things are not fresh just because they are gree
 After a few pleasantries, Greycane leads the conversation around to the question of what he can do for a Free Company in Bastone. Hearing of your hunt, a light appears in his eyes.
 
 "The Son of Lord Arden's been the talk of the town. Word is he had been frequenting a certain sort of alley being less than noble. That's where they found his seal, the noble crest, bathed in blood. No body. The crust blame the common folk, but I think it's something else and I'm glad Davinish had the forethought to call you in."
+
+!>**GAIN CLUE TOKEN 1.  If you have Clue Token 2, PLACE LOCATION TOKEN 4.**  
 
 Choose a location to go to:
 

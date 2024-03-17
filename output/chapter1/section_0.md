@@ -3,11 +3,11 @@
 
 ## Chapter 1 - Bastone
 
+Location 21 – The Wire Road and the Deepwood Approach
+
 !>**OPEN MYSTERY ENVELOPE 'A' AND PLACE ITS CONTENTS IN THE CENTER OF PLAY. PLACE THE FREE COMPANY MARKER ON LOCATION 21. PLACE THE CHAPTER 1 TIME TRACK BENEATH THE MAP. TAKE THE "PATH A" CARD.**  
 
 [chp1_21_1__c](../../decomp/app/src/main/res/raw/chp1_21_1__c.mp3 ':include :type=audio')
-
-Location 21 – The Wire Road and the Deepwood Approach
 
 Green mud sucks at your boots, every stride a challenge as you trudge through the rain. Your hands grip the thick iron cable of the Wire Road, pulled taut through rings sunken into the trunks of hideous trees. For days now, it has been the only evidence of humanity's existence in the Deepwood.
 

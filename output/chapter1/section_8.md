@@ -3,8 +3,6 @@
 
 ## Chapter 1 - Bastone
 
-!>**EACH OATHSWORN PERFORMS A SURVIVAL CHECK (DIFFICULTY 3).  EACH OATHSWORN THAT FAILS THIS CHECK, FALLS, HURTING THEMSELVES. THEY LOSE 1 HIT POINT.**  
-
 [chp1_4_6__a](../../decomp/app/src/main/res/raw/chp1_4_6__a.mp3 ':include :type=audio')
 
 As it scampers closer, you can make out a hunched mass of ragged hair. You ready your weapons at the approach.
@@ -20,6 +18,8 @@ At that, he scurries off the way he came at a surprising speed.
 It's not much but it is the only thing you have. You follow.
 
 The little man is fast and, in this confined space, it is difficult to keep up.
+
+!>**EACH OATHSWORN PERFORMS A SURVIVAL CHECK (DIFFICULTY 3).  EACH OATHSWORN THAT FAILS THIS CHECK, FALLS, HURTING THEMSELVES. THEY LOSE 1 HIT POINT.**  
 
 [Continue](output/chapter1/section_10.md)
 

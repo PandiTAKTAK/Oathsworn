@@ -19,4 +19,4 @@ To get started, continue to the Story Phase page...
 - Save as Gradle project in directory called `decomp`
 - Run `python web.py`
   - This will generate `/output` which links to files in `/decomp`
-  - Need a may to keep track of places and to link "place location 22 and go there" with its associated section ID.
+  - Need a way to keep track of places and to link "place location 22 and go there" with its associated section ID.
