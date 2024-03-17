@@ -5,7 +5,11 @@
 
 Location 21 – The Wire Road and the Deepwood Approach
 
+---
+
 !>**OPEN MYSTERY ENVELOPE 'A' AND PLACE ITS CONTENTS IN THE CENTER OF PLAY. PLACE THE FREE COMPANY MARKER ON LOCATION 21. PLACE THE CHAPTER 1 TIME TRACK BENEATH THE MAP. TAKE THE "PATH A" CARD.** 
+
+---
 
 [chp1_21_1__c](../../decomp/app/src/main/res/raw/chp1_21_1__c.mp3 ':include :type=audio')
 
@@ -17,7 +21,9 @@ As you travel, vines and black tree trunks spattered with sickly pink cysts bloc
 
 Relief from walking through this overgrown hell is promised as the huddled profile of the fortress town of Bastone looms in the distance. They are the ones that sent for you. People have been dying here, though not of hunger or of the Deepwood. Those don't leave much of a man when they're done. Something else is happening here. Something that is leaving plenty of bodies. The crumbling city walls tower before you. As you approach them, you spot something laying at their base.
 
-Choose one:
+
+
+**Choose one:**
 
 ![ch1_21_1__p4](../../decomp/app/src/main/res/drawable-land-xxxhdpi/ch1_21_1__p4.jpg)
 

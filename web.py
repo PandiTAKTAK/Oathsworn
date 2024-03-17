@@ -21,16 +21,25 @@ def extract_section_contents(java_file_path):
     sections = re.findall(r"this\.sections\[\d+\] = new Section\((.*?)\);", content, re.DOTALL)
     return sections
 
+def extract_location_contents(java_file_path):
+    with open(java_file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+    location_pattern = r"this\.location\.put\((\d+), (\d+)\);"
+    location_contents = re.findall(location_pattern, content)
+    return location_contents
+
 def process_match(match, strings_dict, markdown_content):
     if match[0]:
         ref = match[0]
         string_value = strings_dict.get(ref, 'Not found')
         if ref.startswith("pop"):
             string_value_single_line = string_value.replace('\n', ' ')
-            markdown_content += f'!>**{string_value_single_line}** \n\n'
+            markdown_content += f'---\n\n!>**{string_value_single_line}** \n\n---\n\n'
         elif ref.startswith("btn"):
             # Do nothing, handle buttons later as need wider 'Choice' context...
             pass
+        elif ref in {"choose_one", "choose_location1"}:
+            markdown_content += f'\n\n**{string_value}**\n\n'
         else:
             markdown_content += f'{string_value}\n\n'
     elif match[1]:
@@ -56,7 +65,7 @@ def process_choices(section_content, strings_dict, output_dir, button_content):
         button_content += f'[{string_value}]({button_link})\n\n'
     return button_content
 
-def generate_markdown_content(strings_dict, sections, chapter_text, output_dir, markdown_template):
+def generate_markdown_content(strings_dict, sections, locations, chapter_text, output_dir, markdown_template):
     os.makedirs(output_dir, exist_ok=True)
     
     for i, section_content in enumerate(sections):
@@ -88,7 +97,16 @@ def generate_markdown_content(strings_dict, sections, chapter_text, output_dir, 
         
         button_content = process_choices(section_content, strings_dict, output_dir, button_content)
         markdown_content += button_content
-        
+
+        # Check for "new ShowLocations(true)" and print locations
+        show_locations_pattern = r"new ShowLocations\(true\)"
+        if re.search(show_locations_pattern, section_content):
+            # Print the list of locations
+            for key, value in locations:
+                button_link = f'{output_dir}/section_{value}.md'
+                markdown_content += f'[{value}]({button_link})\n'
+            markdown_content += ("\n\n?>Only choose a location you have unlocked on the map\n\n")
+
         markdown_page = markdown_template.format(section_number=i, chapter_text=chapter_text, section_content=markdown_content)
         with open(f"{output_dir}/section_{i}.md", "w", encoding='utf-8') as markdown_file:
             markdown_file.write(markdown_page)
@@ -152,9 +170,10 @@ if __name__ == "__main__":
     
     strings_dict = parse_strings_xml(strings_xml_path)
     sections = extract_section_contents(java_file_path)
+    locations = extract_location_contents(java_file_path)
     chapter_text_key = "chapterText1"
     chapter_text = strings_dict.get(chapter_text_key, "No chapter text found")
     
-    generate_markdown_content(strings_dict, sections, chapter_text, output_dir, markdown_template)
+    generate_markdown_content(strings_dict, sections, locations, chapter_text, output_dir, markdown_template)
     generate_navigation_files(output_dir)
     generate_readme_files(output_dir)

@@ -3,7 +3,11 @@
 
 ## Chapter 1 - Bastone
 
+---
+
 !>**ALL OATHSWORN GAIN A DEFENSE TOKEN.** 
+
+---
 
 [chp1_17_10__c](../../decomp/app/src/main/res/raw/chp1_17_10__c.mp3 ':include :type=audio')
 
@@ -11,7 +15,11 @@ Orange flames wreathe the fist-sized stones that burn in the iron brazier. You c
 
 Descending the rope, you go to inspect the carcasses. Half a dozen are scattered around. They must have been attracted by the corpses, then found their way into the town. Crouching beside one of the hideous things you take a closer look.
 
+---
+
 !>**PERFORM A REASONING CHECK (DIFFICULTY 4).** 
+
+---
 
 [If you SUCCEED](output/chapter1/section_47.md)
 

@@ -11,7 +11,11 @@ Using the information you have gathered, and with the help of a couple of street
 
 You walk the shady alley. Even the drunk and dying avoid the end of this street. Bloodstains still spatter the walls, the rain running down them having little effect on the marks. You search the area for something to help in your task.
 
+---
+
 !>**PERFORM A SPOT CHECK (DIFFICULTY 4).** 
+
+---
 
 [If you SUCCEED](output/chapter1/section_4.md)
 

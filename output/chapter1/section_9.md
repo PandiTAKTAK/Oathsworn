@@ -7,7 +7,11 @@
 
 You wade through the muck trying to pick up a trail. The sewers are a labyrinth of criss-crossing tunnels. More than once, things bite at you from beneath the water and at one point a swarm of small dark shapes descend upon you.
 
+---
+
 !>**EACH OATHSWORN PERFORMS A SURVIVAL CHECK (DIFFICULTY 4).  EACH OATHSWORN THAT FAILS THIS CHECK, FAILS TO SCARE OFF THE THINGS AROUND THEM. THEY LOSE 1 HIT POINT.** 
+
+---
 
 [Continue](output/chapter1/section_11.md)
 

@@ -3,7 +3,11 @@
 
 ## Chapter 1 - Bastone
 
+---
+
 !>**PERFORM A BARTERING CHECK (DIFFICULTY 5).** 
+
+---
 
 [If you SUCCEED](output/chapter1/section_74.md)
 

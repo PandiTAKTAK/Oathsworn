@@ -3,7 +3,11 @@
 
 ## Chapter 1 - Bastone
 
+---
+
 !>**ADD A TIME TOKEN TO THE TIME TRACK (DO NOT TRIGGER ANY EFFECTS ON THE TIME TRACK).** 
+
+---
 
 [chp1_4_9__c](../../decomp/app/src/main/res/raw/chp1_4_9__c.mp3 ':include :type=audio')
 

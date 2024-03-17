@@ -17,6 +17,10 @@ You raise the severed head of the Broodmother to the guard's face. The men recoi
 
 You hand the guard the head and take the iron.
 
+---
+
 !>**ALL OATHSWORN GAIN 2 IRON EACH.  TALLY LEVEL, LOOT AND LOSSES.** 
+
+---
 
 

@@ -15,7 +15,9 @@ You close the distance, shouting through the rain, "Are you the night watch?"
 
 "Who's asking?" one of them grunts giving you a brief sidelong glance before returning his gaze to the fire. Then he looks back, eyeing the mark on your wrists. Understanding dawns on him, and his eyes widen in fear. He goes to draw his sword as the other four turn to face you.
 
-Choose one:
+
+
+**Choose one:**
 
 [1. Attempt to threaten the squad](output/chapter1/section_35.md)
 

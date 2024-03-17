@@ -7,7 +7,11 @@
 
 Fear is this group's strongest weapon and it finds no purchase on you. Your weapons are already out of their sheathes. Your attackers are unprepared for a retaliation from trained warriors.
 
+---
+
 !>**PERFORM A ROUND OF COMBAT AGAINST DEFENSE 3.** 
+
+---
 
 [chp1_15_6__c](../../decomp/app/src/main/res/raw/chp1_15_6__c.mp3 ':include :type=audio')
 
@@ -15,7 +19,11 @@ After the first assailant falls under your assault with a wet thud, the others t
 
 A quick inspection of the fallen reveals iron has scattered in the mud from a split pouch.
 
+---
+
 !>**ALL OATHSWORN GAIN 1 IRON EACH.** 
+
+---
 
 [chp1_15_6__e](../../decomp/app/src/main/res/raw/chp1_15_6__e.mp3 ':include :type=audio')
 
