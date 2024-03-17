@@ -104,7 +104,7 @@ def generate_markdown_content(strings_dict, sections, locations, chapter_text, o
             # Print the list of locations
             for key, value in locations:
                 button_link = f'{output_dir}/section_{value}.md'
-                markdown_content += f'[{value}]({button_link})\n'
+                markdown_content += f'- [{key} - section_{value}]({button_link})\n'
             markdown_content += ("\n\n?>Only choose a location you have unlocked on the map\n\n")
 
         markdown_page = markdown_template.format(section_number=i, chapter_text=chapter_text, section_content=markdown_content)
