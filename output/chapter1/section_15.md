@@ -7,7 +7,7 @@
 
 You squeeze through the small hole and find yourselves in the no man's land between the city walls and the Deepwood. You look off to the treeline and check your compass. This item is near sacred to you as well as all Free Companies. It is the only chance you have of navigating your way back after you enter the Deepwood. You steel yourselves and head in.
 
-!>**ADD A TIME TOKEN TO THE TIME TRACK (DO NOT TRIGGER ANY EFFECTS ON THE TIME TRACK).  ALL OATHSWORN GAIN A REDRAW TOKEN.**  
+!>**ADD A TIME TOKEN TO THE TIME TRACK (DO NOT TRIGGER ANY EFFECTS ON THE TIME TRACK).  ALL OATHSWORN GAIN A REDRAW TOKEN.** 
 
 [chp1_4_13__c](../../decomp/app/src/main/res/raw/chp1_4_13__c.mp3 ':include :type=audio')
 
@@ -17,7 +17,7 @@ Something large moves and you crouch to watch. Sedric stifles an excited laugh. 
 
 The Deepwood bursts with vile life as the hulking ratlike form of the Broodmother parts the branches to your side. Her back undulates with rats that swarm around her as she lifts her huge snout, testing the air. Her great head of rotten fur and gnawing teeth rolls towards you and, with a ravenous hunger, her eyes meet yours.
 
-!>**IF YOU HAVE THE MYSTERY CHEST, OPEN MYSTERY BOX 1.  IF YOU DO NOT HAVE THE MYSTERY CHEST, OPEN MYSTERY ENVELOPE 1.  PROCEED TO THE CHAPTER 1 ENCOUNTER IN THE ENCOUNTER BOOK - YOU HAVE BEEN AMBUSHED, MARK THE AMBUSHED BOX FOR THIS CHAPTER ON YOUR FREE COMPANY SHEET.**  
+!>**IF YOU HAVE THE MYSTERY CHEST, OPEN MYSTERY BOX 1.  IF YOU DO NOT HAVE THE MYSTERY CHEST, OPEN MYSTERY ENVELOPE 1.  PROCEED TO THE CHAPTER 1 ENCOUNTER IN THE ENCOUNTER BOOK - YOU HAVE BEEN AMBUSHED, MARK THE AMBUSHED BOX FOR THIS CHAPTER ON YOUR FREE COMPANY SHEET.** 
 
 [Encounter](output/chapter1/section_80.md)
 

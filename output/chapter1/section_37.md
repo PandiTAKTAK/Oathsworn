@@ -7,7 +7,7 @@
 
 As the man draws his weapon, the closest of you tries to grab him by the wrist and throat. He wrenches free, and with practised technique the other guards draw their blades too. They attack.
 
-!>**PERFORM A ROUND OF COMBAT AGAINST DEFENSE 4.**  
+!>**PERFORM A ROUND OF COMBAT AGAINST DEFENSE 4.** 
 
 [chp1_17_3__c](../../decomp/app/src/main/res/raw/chp1_17_3__c.mp3 ':include :type=audio')
 

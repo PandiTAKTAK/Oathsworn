@@ -7,7 +7,7 @@
 
 You loom over the prone vagrant, secure your weapon belt and ask him what he knows about this place.
 
-!>**PERFORM A THREATENING CHECK (DIFFICULTY 3).**  
+!>**PERFORM A THREATENING CHECK (DIFFICULTY 3).** 
 
 [If you SUCCEED](output/chapter1/section_19.md)
 

@@ -21,7 +21,7 @@ After a few pleasantries, Greycane leads the conversation around to the question
 
 "The Son of Lord Arden's been the talk of the town. Word is he had been frequenting a certain sort of alley being less than noble. That's where they found his seal, the noble crest, bathed in blood. No body. The crust blame the common folk, but I think it's something else and I'm glad Davinish had the forethought to call you in."
 
-!>**GAIN CLUE TOKEN 1.  If you have Clue Token 2, PLACE LOCATION TOKEN 4.**  
+!>**GAIN CLUE TOKEN 1.  If you have Clue Token 2, PLACE LOCATION TOKEN 4.** 
 
 Choose a location to go to:
 

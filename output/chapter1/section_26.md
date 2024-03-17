@@ -13,7 +13,7 @@ You come to another area bereft of people. At the heart of the square is a ten f
 
 You canvas the area and discover that this functions as a crossroads between east and west Bastone and it seems no violent deaths have been discovered in West Bastone.
 
-!>**GAIN CLUE TOKEN 2.  If you have Clue Token 1 - PLACE LOCATION TOKEN 4.**  
+!>**GAIN CLUE TOKEN 2.  If you have Clue Token 1 - PLACE LOCATION TOKEN 4.** 
 
 Choose a location to go to:
 

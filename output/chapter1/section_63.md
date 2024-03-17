@@ -15,7 +15,7 @@ You nod and Midge grimaces. "Bugger, we didn't agree no hazard pay."
 
 Ignoring the boy's comment you begin to question him about the town. He tells you of various locations and you begin to form a plan for the hunt. Bastone has many of the usual landmarks and there is a Banksmith and Apothecary to trade with for the supplies you may need for what is to come.
 
-!>**PLACE LOCATION TOKENS 2, 3, 7, 12, 13, 14, 16 and 19.**  
+!>**PLACE LOCATION TOKENS 2, 3, 7, 12, 13, 14, 16 and 19.** 
 
 Choose a location to go to:
 

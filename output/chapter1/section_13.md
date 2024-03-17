@@ -3,7 +3,7 @@
 
 ## Chapter 1 - Bastone
 
-!>**GAIN ALLY CARD 2 (SEDRIC), ADD DEEPWOOD EVENT CARD 8 TO YOUR DEEPWOOD EVENT DECK AND CITY EVENT CARD 18 TO YOUR CITY EVENT DECK.**  
+!>**GAIN ALLY CARD 2 (SEDRIC), ADD DEEPWOOD EVENT CARD 8 TO YOUR DEEPWOOD EVENT DECK AND CITY EVENT CARD 18 TO YOUR CITY EVENT DECK.** 
 
 [chp1_4_11__c](../../decomp/app/src/main/res/raw/chp1_4_11__c.mp3 ':include :type=audio')
 
@@ -13,7 +13,7 @@ The place Sedric leads you to is a junction that runs along the outer wall of th
 
 "He was a pup, certainly. They look different. Mothers have dozens of pups," he murmurs, fingering the scores of tracks leading to the hole. "Dozens."
 
-!>**REVEAL THE ENCOUNTER SPECIAL RULES BOARD. MARK THE SPECIAL RULES BOX FOR CHAPTER 1 ON YOUR FREE COMPANY SHEET.**  
+!>**REVEAL THE ENCOUNTER SPECIAL RULES BOARD. MARK THE SPECIAL RULES BOX FOR CHAPTER 1 ON YOUR FREE COMPANY SHEET.** 
 
 Choose one:
 

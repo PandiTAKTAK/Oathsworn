@@ -11,7 +11,7 @@ Four or five figures scurry fearfully back into the darkness and limp away, mutt
 
 A quick search through the man's pouch finds a handful of iron.
 
-!>**ALL OATHSWORN GAIN 1 IRON EACH.**  
+!>**ALL OATHSWORN GAIN 1 IRON EACH.** 
 
 [chp1_15_4__c](../../decomp/app/src/main/res/raw/chp1_15_4__c.mp3 ':include :type=audio')
 

@@ -11,7 +11,7 @@ Rain trickles from an ill-hanging sign proclaiming this to be the 'The Watering 
 
 You approach the innkeeper and ask what he knows of the deaths. "I know I'm losing the pool. Jimmy, you're supposed to be dead by now," he shouts over your shoulder to a man in the corner. Men chuckle and go back to their drinks. "Lost three good patrons this month. Randle swears he knows, wait … perhaps you can help that dunce. You wanna know what he knows? He's at the stocks. Try to get him out, will you? He's not a bad kid, just doesn't know when to keep his mouth shut round the guards."
 
-!>**PLACE LOCATION TOKEN 20.**  
+!>**PLACE LOCATION TOKEN 20.** 
 
 Choose a location to go to:
 

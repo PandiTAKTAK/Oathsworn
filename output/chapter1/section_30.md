@@ -13,7 +13,7 @@ The emaciated man calmly cleans under his fingernails with the point of his sick
 
 The alley explodes in a clash of weapons and a few distinct sprays of blood. The melee is short. An assailant lies in the gutter and several others have bolted into side passages, one with a pouch in their hand.
 
-!>**THE CHOSEN INITIATOR LOSES 1 HIT POINT. THE OATHSWORN TO THE LEFT OF THE INITIATOR LOSES ALL THEIR IRON.**  
+!>**THE CHOSEN INITIATOR LOSES 1 HIT POINT. THE OATHSWORN TO THE LEFT OF THE INITIATOR LOSES ALL THEIR IRON.** 
 
 [chp1_15_5__c](../../decomp/app/src/main/res/raw/chp1_15_5__c.mp3 ':include :type=audio')
 

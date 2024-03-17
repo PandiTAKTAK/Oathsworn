@@ -7,7 +7,7 @@
 
 "I suppose I have no choice. I'll take 2 iron. They'll eat for a while now. Thank you."
 
-!>**LOSE 2 IRON.**  
+!>**LOSE 2 IRON.** 
 
 [chp1_24_2__c](../../decomp/app/src/main/res/raw/chp1_24_2__c.mp3 ':include :type=audio')
 
@@ -15,7 +15,7 @@
 
 "Burning's expensive though. Hard to find people to go out to the Deepwood and cut the wood. Especially after that lot didn't come back. Collector gets his iron for each body he cleans from the streets. Costs nothing to just throw a body over the wall. Not right though. That ain't the job. That cur, Jeffit, undercut me and got the work. But I've seen him going to the wall and paying those guards at the eastmost tower. They look the other way and over they go. You find the bodies, you find the answers. And if you happen to kill that whoreson who stole my livelihood, then good riddance."
 
-!>**PLACE LOCATION TOKENS 11, 17 and 25.**  
+!>**PLACE LOCATION TOKENS 11, 17 and 25.** 
 
 Choose a location to go to:
 

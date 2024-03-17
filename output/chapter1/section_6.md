@@ -11,7 +11,7 @@ Around one corner you stop. There is a splashing. A thick heavy motion lumbers t
 
 Whatever it is, it is low and hunched. This is no rat. This is something much larger and it's moving fast.
 
-!>**SECRET DECISION. SET YOUR DIE TO 1 IF YOU WISH TO ATTACK, OR TO 2 IF YOU DO NOT WISH TO ATTACK.**  
+!>**SECRET DECISION. SET YOUR DIE TO 1 IF YOU WISH TO ATTACK, OR TO 2 IF YOU DO NOT WISH TO ATTACK.** 
 
 [If half or more of the players have chosen to attack](output/chapter1/section_7.md)
 

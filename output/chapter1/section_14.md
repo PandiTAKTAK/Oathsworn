@@ -7,7 +7,7 @@
 
 You coat the area in oil and cleave to the shadows, lying in wait for the trap to be sprung. Twilight is settling beyond the hole when the scratchings of clawed feet can be heard outside. Sedric breathes heavily in anticipation for what's to come. He seems to enjoy his work.
 
-!>**ALL OATHSWORN GAIN A REDRAW TOKEN.**  
+!>**ALL OATHSWORN GAIN A REDRAW TOKEN.** 
 
 [chp1_4_12__c](../../decomp/app/src/main/res/raw/chp1_4_12__c.mp3 ':include :type=audio')
 

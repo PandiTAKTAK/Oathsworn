@@ -25,7 +25,7 @@ You assuage her concerns and tell her you want to know about the rising body cou
 
 The apothecary is visibly shaken. You ask her what that was about, but she busies herself picking up glass and refuses to talk any further. If she knew anything, she was not forthcoming about it and will be less so now.
 
-!>**YOU MAY START A TRADE WITH THE APOTHECARY.**  
+!>**YOU MAY START A TRADE WITH THE APOTHECARY.** 
 
 Choose a location to go to:
 

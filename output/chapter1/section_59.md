@@ -21,7 +21,7 @@ A grim silence from you answers his next question.
 
 "Right, then. An oath fulfilled I suppose." He looks uncomfortably away and motions toward a log book with ink and quill beside it. "Make your mark."
 
-!>**CREATE A NAME FOR YOUR FREE COMPANY.  DEFINE A KEY ATTRIBUTE OF YOUR FREE COMPANY BY CHOOSING WHICH ONE OF THE FOLLOWING STATEMENTS MOST ACCURATELY DESCRIBES YOUR COMPANY:**  
+!>**CREATE A NAME FOR YOUR FREE COMPANY.  DEFINE A KEY ATTRIBUTE OF YOUR FREE COMPANY BY CHOOSING WHICH ONE OF THE FOLLOWING STATEMENTS MOST ACCURATELY DESCRIBES YOUR COMPANY:** 
 
 [1. You are faithful to the Oath and to your God. You trust that your arm is given strength by more than mere muscle!](output/chapter1/section_65.md)
 

@@ -15,12 +15,12 @@ In one of the scattered nests lies a jawbone. Most probably human. Woven into th
 
 What would a Thracian noblewoman's mask be doing here? The question is left unanswered as a glint catches your eye.
 
-!>**WRITE THE KEYWORD 'KINGKILLER' ON YOUR FREE COMPANY SHEET.  GAIN ONE RANDOM CHAPTER 1 COMMON ITEM.  ADD A TIME TOKEN TO THE TIME TRACK.**  
+!>**WRITE THE KEYWORD 'KINGKILLER' ON YOUR FREE COMPANY SHEET.  GAIN ONE RANDOM CHAPTER 1 COMMON ITEM.  ADD A TIME TOKEN TO THE TIME TRACK.** 
 
 [chp1_21_2__c](../../decomp/app/src/main/res/raw/chp1_21_2__c.mp3 ':include :type=audio')
 
 Why would anyone leave something so valuable on this side of the wall?
 
-!>**PLACE LOCATION TOKEN 22 AND GO THERE.**  
+!>**PLACE LOCATION TOKEN 22 AND GO THERE.** 
 
 

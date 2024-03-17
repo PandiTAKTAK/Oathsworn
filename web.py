@@ -21,107 +21,74 @@ def extract_section_contents(java_file_path):
     sections = re.findall(r"this\.sections\[\d+\] = new Section\((.*?)\);", content, re.DOTALL)
     return sections
 
-# Function to generate Markdown content for each section
+def process_match(match, strings_dict, markdown_content):
+    if match[0]:
+        ref = match[0]
+        string_value = strings_dict.get(ref, 'Not found')
+        if ref.startswith("pop"):
+            string_value_single_line = string_value.replace('\n', ' ')
+            markdown_content += f'!>**{string_value_single_line}** \n\n'
+        elif ref.startswith("btn"):
+            # Do nothing, handle buttons later as need wider 'Choice' context...
+            pass
+        else:
+            markdown_content += f'{string_value}\n\n'
+    elif match[1]:
+        ref = match[1]
+        relative_path = f"../../decomp/app/src/main/res/raw/{ref}.mp3"
+        markdown_content += f'[{ref}]({relative_path} \':include :type=audio\')\n\n'
+    elif match[2]:
+        ref = match[2]
+        drawable_dir = "decomp/app/src/main/res/drawable-land-xxxhdpi"
+        file_path_png = f"{drawable_dir}/{ref}.png"
+        file_path_jpg = f"{drawable_dir}/{ref}.jpg"
+        file_path = file_path_png if os.path.exists(file_path_png) else file_path_jpg if os.path.exists(file_path_jpg) else f"{drawable_dir}/{ref}"
+        relative_path = f"../../{file_path}"
+        markdown_content += f'![{ref}]({relative_path})\n\n'
+    return markdown_content
+
+def process_choices(section_content, strings_dict, output_dir, button_content):
+    choice_pattern = r"new Choice\(R\.string\.(\w+), (\d+)\)"
+    choice_refs = re.findall(choice_pattern, section_content)
+    for ref, number in choice_refs:
+        string_value = strings_dict.get(ref, 'Not found')
+        button_link = f'{output_dir}/section_{number}.md'
+        button_content += f'[{string_value}]({button_link})\n\n'
+    return button_content
+
 def generate_markdown_content(strings_dict, sections, chapter_text, output_dir, markdown_template):
     os.makedirs(output_dir, exist_ok=True)
+    
     for i, section_content in enumerate(sections):
         markdown_content = f'## {chapter_text}\n\n'
-        button_content = f''
-        current_heading = None
-        processed_choices = set()
+        button_content = '' # Initialize button_content here
         
         combined_pattern = r"R\.string\.(\w+)|R\.raw\.(\w+)|R\.drawable\.(\w+)"
         combined_regex = re.compile(combined_pattern)
         
         lines = section_content.split(',')
-        # Separate matches with suffixes and without
-        matches_by_suffix = {chr(ord('a') + j): [] for j in range(26)} # Initialize a dictionary for each suffix from 'a' to 'z'
+        matches_by_suffix = {chr(ord('a') + j): [] for j in range(26)}
         matches_without_suffix = []
         for line in lines:
             matches = combined_regex.findall(line)
             for match in matches:
-                if any(match): # Check if any group in the match is not empty
+                if any(match):
                     suffix = re.search(r'__([a-z])$', match[0] or match[1] or match[2])
                     if suffix:
-                        # Add to the list corresponding to the suffix
                         matches_by_suffix[suffix.group(1)].append(match)
                     else:
                         matches_without_suffix.append(match)
-
-        # Process matches with suffixes in order
+        
         for suffix in sorted(matches_by_suffix.keys()):
             for match in matches_by_suffix[suffix]:
-                if match[0]:
-                    ref = match[0]
-                    string_value = strings_dict.get(ref, 'Not found')
-                    if ref.startswith("pop"):
-                        string_value_single_line = string_value.replace('\n', ' ')
-                        markdown_content += f'!>**{string_value_single_line}**  \n\n'
-                    elif ref.startswith("btn"):
-                        current_heading = string_value
-                    else:
-                        markdown_content += f'{string_value}\n\n'
-                elif match[1]:
-                    ref = match[1]
-                    relative_path = f"../../decomp/app/src/main/res/raw/{ref}.mp3"
-                    markdown_content += f'[{ref}]({relative_path} \':include :type=audio\')\n\n'
-                elif match[2]:
-                    ref = match[2]
-                    drawable_dir = "decomp/app/src/main/res/drawable-land-xxxhdpi"
-                    file_path_png = f"{drawable_dir}/{ref}.png"
-                    file_path_jpg = f"{drawable_dir}/{ref}.jpg"
-                    file_path = file_path_png if os.path.exists(file_path_png) else file_path_jpg if os.path.exists(file_path_jpg) else f"{drawable_dir}/{ref}"
-                    relative_path = f"../../{file_path}"
-                    markdown_content += f'![{ref}]({relative_path})\n\n'
-
-            choice_pattern = r"new Choice\(R\.string\.(\w+), (\d+)\)"
-            choice_refs = re.findall(choice_pattern, section_content)
-            for ref, number in choice_refs:
-                if ref not in processed_choices:
-                    string_value = strings_dict.get(ref, 'Not found')
-                    if string_value == current_heading:
-                        button_link = f'{output_dir}/section_{number}.md'
-                        button_content += f'[{string_value}]({button_link})\n\n'
-                        processed_choices.add(ref)
+                markdown_content = process_match(match, strings_dict, markdown_content)
         
-        # Then process matches without suffixes
         for match in matches_without_suffix:
-            if match[0]:
-                ref = match[0]
-                string_value = strings_dict.get(ref, 'Not found')
-                if ref.startswith("pop"):
-                    string_value_single_line = string_value.replace('\n', ' ')
-                    markdown_content += f'!>**{string_value_single_line}**  \n\n'
-                elif ref.startswith("btn"):
-                    current_heading = string_value
-                else:
-                    markdown_content += f'{string_value}\n\n'
-            elif match[1]:
-                ref = match[1]
-                relative_path = f"../../decomp/app/src/main/res/raw/{ref}.mp3"
-                markdown_content += f'[{ref}]({relative_path} \':include :type=audio\')\n\n'
-            elif match[2]:
-                ref = match[2]
-                drawable_dir = "decomp/app/src/main/res/drawable-land-xxxhdpi"
-                file_path_png = f"{drawable_dir}/{ref}.png"
-                file_path_jpg = f"{drawable_dir}/{ref}.jpg"
-                file_path = file_path_png if os.path.exists(file_path_png) else file_path_jpg if os.path.exists(file_path_jpg) else f"{drawable_dir}/{ref}"
-                relative_path = f"../../{file_path}"
-                markdown_content += f'![{ref}]({relative_path})\n\n'
-
+            markdown_content = process_match(match, strings_dict, markdown_content)
         
-            choice_pattern = r"new Choice\(R\.string\.(\w+), (\d+)\)"
-            choice_refs = re.findall(choice_pattern, section_content)
-            for ref, number in choice_refs:
-                if ref not in processed_choices:
-                    string_value = strings_dict.get(ref, 'Not found')
-                    if string_value == current_heading:
-                        button_link = f'{output_dir}/section_{number}.md'
-                        button_content += f'[{string_value}]({button_link})\n\n'
-                        processed_choices.add(ref)
-
+        button_content = process_choices(section_content, strings_dict, output_dir, button_content)
         markdown_content += button_content
-
+        
         markdown_page = markdown_template.format(section_number=i, chapter_text=chapter_text, section_content=markdown_content)
         with open(f"{output_dir}/section_{i}.md", "w", encoding='utf-8') as markdown_file:
             markdown_file.write(markdown_page)

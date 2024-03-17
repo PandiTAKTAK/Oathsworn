@@ -11,7 +11,7 @@ The Market square is filled with vendors hawking wares from carts and tables. Th
 
 You split up and casually shop the meager food supplies while keeping your eyes and ears open.
 
-!>**EACH OATHSWORN MAY TRADE 1 IRON TO GAIN A +2 ANIMUS TOKEN (ONCE).**  
+!>**EACH OATHSWORN MAY TRADE 1 IRON TO GAIN A +2 ANIMUS TOKEN (ONCE).** 
 
 [chp1_12_1__c](../../decomp/app/src/main/res/raw/chp1_12_1__c.mp3 ':include :type=audio')
 

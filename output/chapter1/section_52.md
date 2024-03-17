@@ -11,7 +11,7 @@ You trudge the muddy streets and find the Banksmith. The building is made fully 
 
 "If you need shaping, I can do that. Want to exchange goods, my son Tam would usually take care of you, though I've not seen him today. He's got more fingers for the math," says the Banksmith, holding up a hand with only three digits.
 
-!>**YOU MAY START A TRADE WITH THE BANKSMITH.**  
+!>**YOU MAY START A TRADE WITH THE BANKSMITH.** 
 
 [chp1_19_1__c](../../decomp/app/src/main/res/raw/chp1_19_1__c.mp3 ':include :type=audio')
 

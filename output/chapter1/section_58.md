@@ -9,6 +9,6 @@ The travel has been hard and you think it prudent to get out of this deafening r
 
 There is plenty more to do here before nightfall.
 
-!>**ALL OATHSWORN GAIN A +2 ANIMUS TOKEN.  PLACE LOCATION TOKEN 22 AND GO THERE.**  
+!>**ALL OATHSWORN GAIN A +2 ANIMUS TOKEN.  PLACE LOCATION TOKEN 22 AND GO THERE.** 
 
 
