@@ -164,7 +164,7 @@ if __name__ == "__main__":
     chapter_text_key_base = "chapterText"
     
     # Chapter Loop (not handling 11.5)
-    ChaptersToGenerate = 1
+    ChaptersToGenerate = 2
     for chapter_number in range(1, (ChaptersToGenerate+1)):
         print("Generating chapter", chapter_number)
         java_file_path = f"decomp/app/src/main/java/com/shadowborne_games/oathsworn/book/Chapter{chapter_number}.java"

@@ -1,2 +1,3 @@
 - Chapter Selection
   - [chapter1](/output/chapter1/)
+  - [chapter2](/output/chapter2/)
