@@ -1,6 +1,9 @@
 
 # section_19
 
+>[!TIP|label:Authors|iconVisibility:hidden]
+>Written by Jamie Jolly and Paul DeStefano
+
 ## Chapter 1 - Bastone
 
 [chp1_4_17__a](../../decomp/app/src/main/res/raw/chp1_4_17__a.mp3 ':include :type=audio')

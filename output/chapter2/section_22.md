@@ -1,6 +1,9 @@
 
 # section_22
 
+>[!TIP|label:Authors|iconVisibility:hidden]
+>Written by Jamie Jolly and Paul DeStefano
+
 ## Chapter 2 - Eyes in the Dark
 
 Location 10 – The Palace

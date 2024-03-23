@@ -28,6 +28,48 @@ def extract_location_contents(java_file_path):
     location_contents = re.findall(location_pattern, content)
     return location_contents
 
+def extract_drawable_contents(section_content):
+    content = section_content
+    
+    # Extended pattern to capture ImageLinks and ImagePositions
+    pattern = re.compile(r"new ImageLinks\(new int\[\](.*?)\), new ImagePositions\(new int\[\](.*?)\)")
+    matches = pattern.findall(content)
+    
+    drawable_contents = []
+    for match in matches:
+        drawable_links_raw = match[0].strip('[]').split(', ')
+        positions_raw = match[1].strip('[]').split(', ')
+        
+        # Compile the pattern for extracting drawable names
+        drawable_name_pattern = re.compile(r"R\.drawable\.(\w+)")
+        
+        # Process the raw data to associate drawable references with their positions
+        for ref, pos in zip(drawable_links_raw, positions_raw):
+            # Extract the drawable name using the compiled pattern
+            drawable_name_match = drawable_name_pattern.search(ref)
+            if drawable_name_match:
+                drawable_name = drawable_name_match.group(1)
+            else:
+                continue # Skip if no drawable name is found
+            
+            # Clean the position string to remove any non-numeric characters
+            cleaned_pos = ''.join(filter(str.isdigit, pos))
+            if cleaned_pos and ref.strip() != "{-1}": # Check if the cleaned string is not empty and not {-1}
+                # Generate markdown content for drawable
+                drawable_dir = "decomp/app/src/main/res/drawable-land-xxxhdpi"
+                file_path_png = f"{drawable_dir}/{drawable_name}.png"
+                file_path_jpg = f"{drawable_dir}/{drawable_name}.jpg"
+                file_path = file_path_png if os.path.exists(file_path_png) else file_path_jpg if os.path.exists(file_path_jpg) else f"{drawable_dir}/{drawable_name}"
+                relative_path = f"../../{file_path}"
+                markdown_content = f'![{drawable_name}]({relative_path})\n\n'
+                # Append markdown content as the first element and position as the second element
+                drawable_contents.append((markdown_content, int(cleaned_pos)))
+            elif ref.strip() == "{-1}":
+                pass
+            else:
+                print(f"Warning: Invalid position format for {ref.strip()}. Skipping.")
+    return drawable_contents
+
 def process_match(match, strings_dict, markdown_content):
     if match[0]:
         ref = match[0]
@@ -53,7 +95,7 @@ def process_match(match, strings_dict, markdown_content):
         file_path_jpg = f"{drawable_dir}/{ref}.jpg"
         file_path = file_path_png if os.path.exists(file_path_png) else file_path_jpg if os.path.exists(file_path_jpg) else f"{drawable_dir}/{ref}"
         relative_path = f"../../{file_path}"
-        markdown_content += f'![{ref}]({relative_path})\n\n'
+        #markdown_content += f'![{ref}]({relative_path})\n\n'
     return markdown_content
 
 def process_choices(section_content, strings_dict, output_dir, button_content):
@@ -65,13 +107,18 @@ def process_choices(section_content, strings_dict, output_dir, button_content):
         button_content += f'[{string_value}]({button_link})\n\n'
     return button_content
 
-def generate_markdown_content(strings_dict, sections, locations, chapter_text, output_dir, markdown_template):
+def generate_markdown_content(strings_dict, sections, locations, chapter_text, author_text, output_dir, markdown_template):
     os.makedirs(output_dir, exist_ok=True)
     
+    # Looping through each found section in the current chapter
     for i, section_content in enumerate(sections):
-        markdown_content = f'## {chapter_text}\n\n'
-        button_content = '' # Initialize button_content here
+        markdown_content = f'>[!TIP|label:Authors|iconVisibility:hidden]\n>{author_text}\n\n'
+        markdown_content += f'## {chapter_text}\n\n'
         
+        button_content = ''
+        
+        drawables = extract_drawable_contents(section_content)
+
         combined_pattern = r"R\.string\.(\w+)|R\.raw\.(\w+)|R\.drawable\.(\w+)"
         combined_regex = re.compile(combined_pattern)
         
@@ -88,8 +135,16 @@ def generate_markdown_content(strings_dict, sections, locations, chapter_text, o
                     else:
                         matches_without_suffix.append(match)
         
+        # Initialize a counter to keep track of the current iteration
+        iteration_count = 1
+
         for suffix in sorted(matches_by_suffix.keys()):
             for match in matches_by_suffix[suffix]:
+                # Check if there's a drawable to insert at this iteration
+                for drawable in drawables:
+                    if drawable[1] == iteration_count:
+                        markdown_content += drawable[0]
+                iteration_count += 1
                 markdown_content = process_match(match, strings_dict, markdown_content)
         
         for match in matches_without_suffix:
@@ -162,26 +217,28 @@ if __name__ == "__main__":
     strings_xml_path = "decomp/app/src/main/res/values/strings.xml"
     output_dir_base = "output/chapter"
     chapter_text_key_base = "chapterText"
+    author_text_key_base = "authorText"
     
     # Chapter Loop (not handling 11.5)
     ChaptersToGenerate = 2
     for chapter_number in range(1, (ChaptersToGenerate+1)):
-        print("Generating chapter", chapter_number)
         java_file_path = f"decomp/app/src/main/java/com/shadowborne_games/oathsworn/book/Chapter{chapter_number}.java"
         output_dir = f"{output_dir_base}{chapter_number}"
         chapter_text_key = f"{chapter_text_key_base}{chapter_number}"
+        author_text_key = f"{author_text_key_base}{chapter_number}"
         
         strings_dict = parse_strings_xml(strings_xml_path)
         sections = extract_section_contents(java_file_path)
         locations = extract_location_contents(java_file_path)
-        chapter_text = strings_dict.get(chapter_text_key, "No chapter text found")
+        chapter_text = strings_dict.get(chapter_text_key, "Error: No chapter text found!")
+        author_text = strings_dict.get(author_text_key, "Error: No author text found!")
         
         markdown_template = """
 # section_{section_number}
 
 {section_content}
 """
-        
-        generate_markdown_content(strings_dict, sections, locations, chapter_text, output_dir, markdown_template)
-        generate_navigation_files(output_dir)
-        generate_readme_files(output_dir)
+        print("Generating", chapter_text, "-", author_text)
+        generate_markdown_content(strings_dict, sections, locations, chapter_text, author_text, output_dir, markdown_template)
+    generate_navigation_files(output_dir)
+    generate_readme_files(output_dir)

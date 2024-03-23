@@ -1,6 +1,9 @@
 
 # section_0
 
+>[!TIP|label:Authors|iconVisibility:hidden]
+>Written by Jamie Jolly and Paul DeStefano
+
 ## Chapter 1 - Bastone
 
 Location 21 – The Wire Road and the Deepwood Approach
@@ -10,6 +13,8 @@ Location 21 – The Wire Road and the Deepwood Approach
 !>**OPEN MYSTERY ENVELOPE 'A' AND PLACE ITS CONTENTS IN THE CENTER OF PLAY. PLACE THE FREE COMPANY MARKER ON LOCATION 21. PLACE THE CHAPTER 1 TIME TRACK BENEATH THE MAP. TAKE THE "PATH A" CARD.** 
 
 ---
+
+![ch1_21_1__p4](../../decomp/app/src/main/res/drawable-land-xxxhdpi/ch1_21_1__p4.jpg)
 
 [chp1_21_1__c](../../decomp/app/src/main/res/raw/chp1_21_1__c.mp3 ':include :type=audio')
 
@@ -24,8 +29,6 @@ Relief from walking through this overgrown hell is promised as the huddled profi
 
 
 **Choose one:**
-
-![ch1_21_1__p4](../../decomp/app/src/main/res/drawable-land-xxxhdpi/ch1_21_1__p4.jpg)
 
 [1. Explore the base of the wall](output/chapter1/section_57.md)
 

@@ -1,6 +1,9 @@
 
 # section_61
 
+>[!TIP|label:Authors|iconVisibility:hidden]
+>Written by Jamie Jolly and Paul DeStefano
+
 ## Chapter 2 - Eyes in the Dark
 
 [chp2b_20_3__a](../../decomp/app/src/main/res/raw/chp2b_20_3__a.mp3 ':include :type=audio')
